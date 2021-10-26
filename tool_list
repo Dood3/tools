@@ -1,0 +1,493 @@
+######################     WEB     ######################
+
+Blazy (login cracker/vulnscanner)
+https://github.com/UltimateHackers/Blazy.git
+
+Breacher (admin page finder)
+https://github.com/UltimateHackers/Breacher.git
+
+Cansina (Discovery)
+https://github.com/deibit/cansina.git
+
+CypherScan (tests for SSL/TLS)
+https://github.com/mozilla/cipherscan.git
+
+Crowbar (Bruteforcer)
+https://github.com/galkan/crowbar.git
+
+Dcrawl
+https://github.com/kgretzky/dcrawl.git
+
+InputScanner
+https://github.com/zseano/InputScanner.git
+
+JS-Scan (.js file scraper)
+https://github.com/zseano/JS-Scan.git
+
+Knockpy (enumerate subdomains)
+https://github.com/guelfoweb/knock.git
+
+Plecost (Wordpress fingerprinter)
+https://github.com/iniqua/plecost.git
+
+Spaghetti (Sec Scanner)
+https://github.com/m4ll0k/Spaghetti.git
+
+Sublist3r (Subdomain enumeration)
+https://github.com/aboul3la/Sublist3r.git
+
+Tulpar (vulnscanner)
+https://github.com/anilbaranyelken/tulpar.git
+
+Vanquish (enumerator)
+https://github.com/frizb/Vanquish.git
+
+WordpressScan (WPScan in Python)
+https://github.com/swisskyrepo/Wordpresscan.git
+
+WPForce (Wordpess Attack Suite)
+https://github.com/n00py/WPForce.git
+
+XSStrike
+https://github.com/UltimateHackers/XSStrike.git
+
+WFUZZ (web application fuzzer)
+https://github.com/xmendez/wfuzz.git
+
+SQLiv (scan sites multithreaded for SQLi injection)
+https://github.com/Hadesy2k/sqliv.git
+
+Dirs3arch (as the name says)
+https://github.com/maurosoria/dirsearch.git
+
+SubBrute (Subdomain bruteforcer)
+https://github.com/TheRook/subbrute.git
+
+Tweep (Twitter scraper)
+https://github.com/haccer/tweep.git
+
+Striker (multi-purpose scanner)
+https://github.com/UltimateHackers/Striker.git
+
+Wig - Web App Information Gatherer
+https://github.com/jekyc/wig.git
+
+Cr3dOv3r (checks for password reuse through public leaks and tries to login)
+https://github.com/D4Vinci/Cr3dOv3r.git
+
+Kadimus (Local File Inclusion checker)
+https://github.com/P0cL4bs/Kadimus.git
+
+XSScrapy (XSS & SQLi checker)
+https://github.com/DanMcInerney/xsscrapy.git
+
+XSSYA (XSS Confirmation)
+https://github.com/yehia-mamdouh/XSSYA-V-2.0.git
+
+Fuxsploider (file upload vuln scanner)
+https://github.com/almandin/fuxploider.git
+
+SNMPwn (SNMPv3 user enumerator and attack)
+https://github.com/hatlord/snmpwn.git
+
+Anubis (subdomain enumeration and information gathering)
+https://github.com/jonluca/Anubis.git
+
+Trufflehog (Git Repo spider)
+https://github.com/dxa4481/truffleHog.git
+
+Injectify (Perform advanced MiTM attacks on websites)
+https://github.com/samdenty99/injectify.git
+
+Social Recon (Osint-Scraper)
+https://github.com/famavott/osint-scraper.git
+
+Gasmask [OSINT (V-Hosts)]
+https://github.com/twelvesec/gasmask.git
+
+GyoiThon (Machine learning pentesting)
+https://github.com/gyoisamurai/GyoiThon.git
+
+TakeOver-v1 (Check for dead Sub-Domains)
+https://github.com/samhaxr/TakeOver-v1.git
+
+SHELLS - SecurityNotFound(Hidden Web-Shell in php)
+https://github.com/CosasDePuma/SecurityNotFound.git
+
+CursedChrome (Surf Victims Chrome browser as the Victim)
+https://github.com/mandatoryprogrammer/CursedChrome.git
+
+Byp4xx (bypass 403s)
+https://github.com/lobuhi/byp4xx.git
+
+pFuzz (bypass WAFs)
+https://github.com/RedSection/pFuzz.git
+
+
+######################     PHISHING     ######################
+
+SPF (Speed Phish Framework)
+https://github.com/tatanus/SPF.git
+
+GoPhish
+https://github.com/gophish/gophish.git
+
+Ghost Phisher
+https://github.com/savio-code/ghost-phisher.git
+
+Phishery
+https://github.com/ryhanson/phishery.git
+
+CredSniper
+https://github.com/ustayready/CredSniper.git
+
+EvilUrl (IDN Homograph Attack)
+https://github.com/UndeadSec/EvilURL.git
+
+EmbedInHTML (embed malicious code in html files to be downloaded & executed automatically)
+https://github.com/Arno0x/EmbedInHTML.git
+
+Reel Phish (not much to it..)
+https://github.com/fireeye/ReelPhish.git
+
+CredsLeaker (opens a prompt to ask for the users credentials till they are put in)
+https://github.com/Dviros/CredsLeaker.git
+
+Modlishka (Reverse Proxy, Phishing NG)
+https://github.com/drk1wi/Modlishka.git
+
+Maskphish (mask phishing URLs)
+https://github.com/jaykali/maskphish.git
+
+
+######################     WIFI     ######################
+
+LANs.py
+https://github.com/DanMcInerney/LANs.py.git
+
+Airpwn-NG
+https://github.com/ICSec/airpwn-ng.git
+
+BoopSuite
+https://github.com/MisterBianco/BoopSuite.git
+
+FruityWifi
+https://github.com/xtr4nge/FruityWifi.git
+
+hostapd-wpe (Access Point Impersonation
+https://github.com/OpenSecurityResearch/hostapd-wpe.git
+
+KickThemOut
+https://github.com/k4m4/kickthemout.git
+
+MitmAP (fake AP)
+https://github.com/xdavidhu/mitmAP.git
+
+Mitm-Router (Man in the Middle AP in Docker)
+https://github.com/brannondorsey/mitm-router.git
+
+RogueSploit (Social Engineering WiFi trap)
+https://github.com/H0nus/RogueSploit.git
+
+WaidPS (wireless monitoring)
+https://github.com/SYWorks/waidps.git
+
+Wifi-Jammer
+https://github.com/DanMcInerney/wifijammer.git
+
+Wifite2
+https://github.com/derv82/wifite2.git
+
+The Rogue Toolkit (Evil Twin Attacker)
+https://github.com/InfamousSYN/rogue.git
+
+e013 (steal Wifi passwords from a Winshit machine in vbs)
+https://github.com/0v3rl0w/e013.git
+
+WiPi-Hunter (Detect illegal network activities)
+https://github.com/WiPi-Hunter
+
+r00kie-kr00kie (Kr00ked Atack)
+https://github.com/hexway/r00kie-kr00kie.git
+
+c41n (automateed rogue access point)
+https://github.com/MS-WEB-BN/c41n.git
+
+
+######################     NETWORK     ######################
+
+LaZagne
+https://github.com/AlessandroZ/LaZagne.git
+
+Habu
+https://github.com/portantier/habu.git
+
+BloodHound (Active Directory)
+https://github.com/BloodHoundAD/BloodHound.git
+
+DnsCat2 (tunneling)
+https://github.com/iagox86/dnscat2.git
+
+DNS Spoof
+https://github.com/DanMcInerney/dnsspoof.git
+
+GhostInTheNet (Network Stealthier)
+https://github.com/cryptolok/GhostInTheNet.git
+
+IronSquirrel (exploit delivery)
+https://github.com/MRGEffitas/Ironsquirrel.git
+
+MeterSSH (inject Shellcode over SSH into memory)
+https://github.com/trustedsec/meterssh.git
+
+Morpheus
+https://github.com/r00t-3xp10it/morpheus.git
+
+Nili (network scan)
+https://github.com/niloofarkheirkhah/nili.git
+
+Outis (RAT)
+https://github.com/SySS-Research/outis.git
+
+Portia (internal network pentest)
+https://github.com/SpiderLabs/portia.git
+
+PyMultiTor (Multi threaded Tor Proxy)
+https://github.com/realgam3/pymultitor.git
+
+Scutum (ARP Firewall)
+https://github.com/K4YT3X/SCUTUM.git
+
+Xerosploit (Man in the middle framework)
+https://github.com/LionSec/xerosploit.git
+
+RDPY (RDP written in Python)
+https://github.com/citronneur/rdpy.git
+
+Ninja Shell (Port knocking using different protocols)
+https://github.com/CoolerVoid/ninja_shell.git
+
+Passhunt (Default Credential Exploiter)
+https://github.com/Viralmaniar/Passhunt.git
+
+Whonows (DNS Rebinding attacks)
+https://github.com/brannondorsey/whonow.git
+
+Polymorph (Packet manipulation on the fly)
+https://github.com/shramos/polymorph.git
+
+PivotSuite (Network Pivoting Toolkit)
+https://github.com/RedTeamOperations/PivotSuite.git
+
+Stoaway (Multiproxying)
+https://github.com/ph4ntonn/Stowaway.git
+
+Lsassy (extract lsass credentials remotely)
+https://github.com/Hackndo/lsassy.git
+
+Simple Live Data Collection Tool (name speaks for itself)
+https://github.com/LetsDefend/Simple-Live-Data-Collection.git
+
+NAT Slipstreaming
+https://github.com/samyk/slipstream.git
+
+enum4linux-ng.py (Numeration based on the linux version in Python)
+https://github.com/cddmp/enum4linux-ng.git
+
+Arbitrium-RAT (asthe name states)
+https://github.com/BenChaliah/Arbitrium-RAT.git
+
+Defeat-Defender (Disable Winshit10 Defender/Tamper Protection)
+https://github.com/swagkarna/Defeat-Defender.git
+
+Reverse-SSH (reverse ssh-server)
+https://github.com/Fahrj/reverse-ssh.git
+
+QueenSono (Data extraction via ICMP)
+https://github.com/ariary/QueenSono.git
+
+Attack-Surface-Framework (Monitoring)
+https://github.com/vmware-labs/attack-surface-framework.git
+
+
+######################     POWERSHELL/MACRO/EXPLOIT/SCRIPTS     ######################
+
+Chimera (PowerShell obfuscation script)
+https://github.com/tokyoneon/Chimera.git
+
+Powershell Empire
+https://github.com/EmpireProject/Empire.git
+
+Thundershell (Powershell RAT)
+https://github.com/Mr-Un1k0d3r/ThunderShell.git
+
+MacPhish (macro payload)
+https://github.com/cldrn/macphish.git
+
+MPC (msfvenom payload generator)
+https://github.com/g0tmi1k/mpc.git
+
+NPS (avoid detection of Powershell payload)
+https://github.com/trustedsec/nps_payload.git
+
+OWASP-ZSC (Shellcode Obfuscator)
+https://github.com/viraintel/OWASP-ZSC.git
+
+P4wnP1 (RaspberryPi USB attack platform)
+https://github.com/mame82/P4wnP1.git
+
+Powershdll (run Powershell with rundll32)
+https://github.com/p3nt4/PowerShdll.git
+
+PowerSploit
+https://github.com/PowerShellMafia/PowerSploit.git
+
+PyDictor (wordlist generator)
+https://github.com/LandGrey/pydictor.git
+
+Revoke-Obfuscation (Powershell ofuscation detection framework)
+https://github.com/danielbohannon/Revoke-Obfuscation.git
+
+InurlBr
+https://github.com/googleinurl/SCANNER-INURLBR.git
+
+Shellshock-Hunter  BING (Bing dorker for shellshock)
+https://github.com/DanMcInerney/shellshock-hunter.git
+
+Shellshock Hunter GOOGLE (Google dorker dor shellshock)
+https://github.com/DanMcInerney/shellshock-hunter-google
+
+SQLMap
+https://github.com/sqlmapproject/sqlmap.git
+
+UniByAV (shellcode Obfuscation)
+https://github.com/Mr-Un1k0d3r/UniByAv.git
+
+Unicorn (Powershell downgrade attack)
+https://github.com/trustedsec/unicorn.git
+
+Venom (msf shellcode generator)
+https://sourceforge.net/projects/crisp-shellcode-generator/
+
+WhiteWidow (sql injection scanner)
+https://github.com/WhitewidowScanner/whitewidow.git
+
+Xorpy (XOR encryption utility)
+https://github.com/ShawnDEvans/xorpy.git
+
+Shellter
+https://www.shellterproject.com/download/
+
+ACLight [Powershell script for discovering privileged accounts (shadow admins) in a domain]
+https://github.com/cyberark/ACLight.git
+
+Reptile (Linux rootkit)
+https://github.com/f0rb1dd3n/Reptile.git
+
+Dr0p1t-Framework (dropper)
+https://github.com/D4Vinci/Dr0p1t-Framework.git
+
+ICMP-Shell
+https://github.com/inquisb/icmpsh.git
+
+Vegile (backdoor/rootkit setup)
+https://github.com/Screetsec/Vegile.git
+
+Macro_Pack (malicious Macro generator)
+https://github.com/sevagas/macro_pack.git
+
+Sudohulk (try privilege escalation changing sudo command)
+https://github.com/hc0d3r/sudohulk.git
+
+Internal-Monologue (retrieve NTLM-Hashes without touching LSASS)
+https://github.com/eladshamir/Internal-Monologue.git
+
+BadPdf (Retrieve NTLM Hashes with a pdf)
+https://github.com/deepzec/Bad-Pdf.git
+
+PowerUpSQL (Attacking SQL-Server with Powershell)
+https://github.com/NetSPI/PowerUpSQL.git
+
+RouterSploit (Exploitation Framework for embedded devices)
+https://github.com/threat9/routersploit.git
+
+Xencrypt (Powershell obfuscation/ AV Evasion)
+https://github.com/the-xentropy/xencrypt.git
+
+HiveJack (Extract SAML, SYSTM & SECURITY hives from an already compromised system)
+https://github.com/Viralmaniar/HiveJack.git
+
+K55 (Linux x86_64 Process Injection Utility)
+https://github.com/josh0xA/K55.git
+
+LazySign (Steal valid Certs from legit Win-Binaries to sign your own)
+https://github.com/jfmaes/LazySign.git
+
+SpoolSploit (print spooler exploits containerized)
+https://github.com/BeetleChunks/SpoolSploit.git
+
+PowerShx (Unmanaged PowerShell execution using DLLs or a standalone executable / bypassing AMSI & running PS Cmdlets)
+https://github.com/iomoath/PowerShx.git
+
+
+######################     OPSEC     ######################
+
+USBlock (block unallowed USBs)
+https://github.com/cryptolok/USBlok.git
+
+Salamandra (spy mic finder)
+https://github.com/eldraco/Salamandra.git
+
+RETDEC (machine-code decompiler)
+https://github.com/avast-tl/retdec.git
+
+CoffeeMiner (collaborative (mitm) cryptocurrency mining pool in wifi networks)
+https://github.com/arnaucode/coffeeMiner.git
+
+Log-Killer (Delete all logfiles on Winshit & Linux)
+https://github.com/Rizer0/Log-killer.git
+
+
+###########################   OTHER   ################################
+
+EagleEye (Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search)
+https://github.com/ThoughtfulDev/EagleEye.git
+
+Spiderfoot (Osint automation)
+https://github.com/smicallef/spiderfoot.git
+
+BadBlood (Create Active Directory stuff)
+https://github.com/davidprowe/BadBlood.git
+
+PEASS (Windows & Linux PrivEsc)
+https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
+
+PwnDrop (payload Hosting self-deployed)
+https://github.com/kgretzky/pwndrop.git
+
+GDB-Frontend
+https://github.com/rohanrhu/gdb-frontend.git
+
+Keylogger
+https://github.com/aydinnyunus/Keylogger.git
+
+Drow (patch ELF)
+https://github.com/zznop/drow.git
+
+emp3r0r (linux post exploitation framework)
+https://github.com/jm33-m0/emp3r0r.git
+
+PwnLnx (C2 for Linux)
+https://github.com/spectertraww/PwnLnX.git
+
+Limekighter (create a spoof code signing certificates)
+https://github.com/Tylous/Limelighter.git
+
+###########################   POST   ################################
+
+
+Red Pill (Post Exploitation task helper/ Powershell)
+https://github.com/r00t-3xp10it/redpill.git
+
+JadedWraith (Linux backdoor)
+https://github.com/phath0m/JadedWraith.git
