@@ -159,6 +159,8 @@ https://github.com/drk1wi/Modlishka.git
 Maskphish (mask phishing URLs)
 https://github.com/jaykali/maskphish.git
 
+CamPhish (capture screenshots)
+https://github.com/techchipnet/CamPhish
 
 ######################     WIFI     ######################
 
@@ -309,6 +311,9 @@ https://github.com/ariary/QueenSono.git
 Attack-Surface-Framework (Monitoring)
 https://github.com/vmware-labs/attack-surface-framework.git
 
+Tor-Rootkit (A Python 3 standalone Windows 10 / Linux Rootkit)
+https://github.com/emcruise/tor-rootkit
+
 
 ######################     POWERSHELL/MACRO/EXPLOIT/SCRIPTS     ######################
 
@@ -429,6 +434,8 @@ https://github.com/BeetleChunks/SpoolSploit.git
 PowerShx (Unmanaged PowerShell execution using DLLs or a standalone executable / bypassing AMSI & running PS Cmdlets)
 https://github.com/iomoath/PowerShx.git
 
+RottenPotato-NG (New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools)
+https://github.com/breenmachine/RottenPotatoNG
 
 ######################     OPSEC     ######################
 
