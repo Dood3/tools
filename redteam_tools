@@ -437,6 +437,9 @@ https://github.com/iomoath/PowerShx.git
 RottenPotato-NG (New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools)
 https://github.com/breenmachine/RottenPotatoNG
 
+EXOCET (AV-Evasion in Go)
+https://github.com/tanc7/EXOCET-AV-Evasion
+
 ######################     OPSEC     ######################
 
 USBlock (block unallowed USBs)
