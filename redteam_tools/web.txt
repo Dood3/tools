@@ -1,0 +1,124 @@
+######################     WEB     ######################
+
+Blazy (login cracker/vulnscanner)
+https://github.com/UltimateHackers/Blazy.git
+
+Breacher (admin page finder)
+https://github.com/UltimateHackers/Breacher.git
+
+Cansina (Discovery)
+https://github.com/deibit/cansina.git
+
+CypherScan (tests for SSL/TLS)
+https://github.com/mozilla/cipherscan.git
+
+Crowbar (Bruteforcer)
+https://github.com/galkan/crowbar.git
+
+Dcrawl
+https://github.com/kgretzky/dcrawl.git
+
+InputScanner
+https://github.com/zseano/InputScanner.git
+
+JS-Scan (.js file scraper)
+https://github.com/zseano/JS-Scan.git
+
+Knockpy (enumerate subdomains)
+https://github.com/guelfoweb/knock.git
+
+Plecost (Wordpress fingerprinter)
+https://github.com/iniqua/plecost.git
+
+Spaghetti (Sec Scanner)
+https://github.com/m4ll0k/Spaghetti.git
+
+Sublist3r (Subdomain enumeration)
+https://github.com/aboul3la/Sublist3r.git
+
+Tulpar (vulnscanner)
+https://github.com/anilbaranyelken/tulpar.git
+
+Vanquish (enumerator)
+https://github.com/frizb/Vanquish.git
+
+WordpressScan (WPScan in Python)
+https://github.com/swisskyrepo/Wordpresscan.git
+
+WPForce (Wordpess Attack Suite)
+https://github.com/n00py/WPForce.git
+
+XSStrike
+https://github.com/UltimateHackers/XSStrike.git
+
+WFUZZ (web application fuzzer)
+https://github.com/xmendez/wfuzz.git
+
+SQLiv (scan sites multithreaded for SQLi injection)
+https://github.com/Hadesy2k/sqliv.git
+
+Dirs3arch (as the name says)
+https://github.com/maurosoria/dirsearch.git
+
+SubBrute (Subdomain bruteforcer)
+https://github.com/TheRook/subbrute.git
+
+Tweep (Twitter scraper)
+https://github.com/haccer/tweep.git
+
+Striker (multi-purpose scanner)
+https://github.com/UltimateHackers/Striker.git
+
+Wig - Web App Information Gatherer
+https://github.com/jekyc/wig.git
+
+Cr3dOv3r (checks for password reuse through public leaks and tries to login)
+https://github.com/D4Vinci/Cr3dOv3r.git
+
+Kadimus (Local File Inclusion checker)
+https://github.com/P0cL4bs/Kadimus.git
+
+XSScrapy (XSS & SQLi checker)
+https://github.com/DanMcInerney/xsscrapy.git
+
+XSSYA (XSS Confirmation)
+https://github.com/yehia-mamdouh/XSSYA-V-2.0.git
+
+Fuxsploider (file upload vuln scanner)
+https://github.com/almandin/fuxploider.git
+
+SNMPwn (SNMPv3 user enumerator and attack)
+https://github.com/hatlord/snmpwn.git
+
+Anubis (subdomain enumeration and information gathering)
+https://github.com/jonluca/Anubis.git
+
+Trufflehog (Git Repo spider)
+https://github.com/dxa4481/truffleHog.git
+
+Injectify (Perform advanced MiTM attacks on websites)
+https://github.com/samdenty99/injectify.git
+
+Social Recon (Osint-Scraper)
+https://github.com/famavott/osint-scraper.git
+
+Gasmask [OSINT (V-Hosts)]
+https://github.com/twelvesec/gasmask.git
+
+GyoiThon (Machine learning pentesting)
+https://github.com/gyoisamurai/GyoiThon.git
+
+TakeOver-v1 (Check for dead Sub-Domains)
+https://github.com/samhaxr/TakeOver-v1.git
+
+SHELLS - SecurityNotFound(Hidden Web-Shell in php)
+https://github.com/CosasDePuma/SecurityNotFound.git
+
+CursedChrome (Surf Victims Chrome browser as the Victim)
+https://github.com/mandatoryprogrammer/CursedChrome.git
+
+Byp4xx (bypass 403s)
+https://github.com/lobuhi/byp4xx.git
+
+pFuzz (bypass WAFs)
+https://github.com/RedSection/pFuzz.git

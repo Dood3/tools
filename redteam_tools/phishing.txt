@@ -1,0 +1,35 @@
+SPF (Speed Phish Framework)
+https://github.com/tatanus/SPF.git
+
+GoPhish
+https://github.com/gophish/gophish.git
+
+Ghost Phisher
+https://github.com/savio-code/ghost-phisher.git
+
+Phishery
+https://github.com/ryhanson/phishery.git
+
+CredSniper
+https://github.com/ustayready/CredSniper.git
+
+EvilUrl (IDN Homograph Attack)
+https://github.com/UndeadSec/EvilURL.git
+
+EmbedInHTML (embed malicious code in html files to be downloaded & executed automatically)
+https://github.com/Arno0x/EmbedInHTML.git
+
+Reel Phish (not much to it..)
+https://github.com/fireeye/ReelPhish.git
+
+CredsLeaker (opens a prompt to ask for the users credentials till they are put in)
+https://github.com/Dviros/CredsLeaker.git
+
+Modlishka (Reverse Proxy, Phishing NG)
+https://github.com/drk1wi/Modlishka.git
+
+Maskphish (mask phishing URLs)
+https://github.com/jaykali/maskphish.git
+
+CamPhish (capture screenshots)
+https://github.com/techchipnet/CamPhish

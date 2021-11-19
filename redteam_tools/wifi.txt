@@ -1,0 +1,50 @@
+LANs.py
+https://github.com/DanMcInerney/LANs.py.git
+
+Airpwn-NG
+https://github.com/ICSec/airpwn-ng.git
+
+BoopSuite
+https://github.com/MisterBianco/BoopSuite.git
+
+FruityWifi
+https://github.com/xtr4nge/FruityWifi.git
+
+hostapd-wpe (Access Point Impersonation)
+https://github.com/OpenSecurityResearch/hostapd-wpe.git
+
+KickThemOut
+https://github.com/k4m4/kickthemout.git
+
+MitmAP (fake AP)
+https://github.com/xdavidhu/mitmAP.git
+
+Mitm-Router (Man in the Middle AP in Docker)
+https://github.com/brannondorsey/mitm-router.git
+
+RogueSploit (Social Engineering WiFi trap)
+https://github.com/H0nus/RogueSploit.git
+
+WaidPS (wireless monitoring)
+https://github.com/SYWorks/waidps.git
+
+Wifi-Jammer
+https://github.com/DanMcInerney/wifijammer.git
+
+Wifite2
+https://github.com/derv82/wifite2.git
+
+The Rogue Toolkit (Evil Twin Attacker)
+https://github.com/InfamousSYN/rogue.git
+
+e013 (steal Wifi passwords from a Winshit machine in vbs)
+https://github.com/0v3rl0w/e013.git
+
+WiPi-Hunter (Detect illegal network activities)
+https://github.com/WiPi-Hunter
+
+r00kie-kr00kie (Kr00ked Atack)
+https://github.com/hexway/r00kie-kr00kie.git
+
+c41n (automated rogue access point)
+https://github.com/MS-WEB-BN/c41n.git

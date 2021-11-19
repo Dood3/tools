@@ -1,0 +1,5 @@
+Red Pill (Post Exploitation task helper/ Powershell)
+https://github.com/r00t-3xp10it/redpill.git
+
+JadedWraith (Linux backdoor)
+https://github.com/phath0m/JadedWraith.git

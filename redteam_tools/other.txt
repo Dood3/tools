@@ -1,0 +1,32 @@
+EagleEye (Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search)
+https://github.com/ThoughtfulDev/EagleEye.git
+
+Spiderfoot (Osint automation)
+https://github.com/smicallef/spiderfoot.git
+
+BadBlood (Create Active Directory stuff)
+https://github.com/davidprowe/BadBlood.git
+
+PEASS (Windows & Linux PrivEsc)
+https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
+
+PwnDrop (payload Hosting self-deployed)
+https://github.com/kgretzky/pwndrop.git
+
+GDB-Frontend
+https://github.com/rohanrhu/gdb-frontend.git
+
+Keylogger
+https://github.com/aydinnyunus/Keylogger.git
+
+Drow (patch ELF)
+https://github.com/zznop/drow.git
+
+emp3r0r (linux post exploitation framework)
+https://github.com/jm33-m0/emp3r0r.git
+
+PwnLnx (C2 for Linux)
+https://github.com/spectertraww/PwnLnX.git
+
+Limekighter (create a spoof code signing certificates)
+https://github.com/Tylous/Limelighter.git

@@ -1,0 +1,95 @@
+LaZagne
+https://github.com/AlessandroZ/LaZagne.git
+
+Habu
+https://github.com/portantier/habu.git
+
+BloodHound (Active Directory)
+https://github.com/BloodHoundAD/BloodHound.git
+
+DnsCat2 (tunneling)
+https://github.com/iagox86/dnscat2.git
+
+DNS Spoof
+https://github.com/DanMcInerney/dnsspoof.git
+
+GhostInTheNet (Network Stealthier)
+https://github.com/cryptolok/GhostInTheNet.git
+
+IronSquirrel (exploit delivery)
+https://github.com/MRGEffitas/Ironsquirrel.git
+
+MeterSSH (inject Shellcode over SSH into memory)
+https://github.com/trustedsec/meterssh.git
+
+Morpheus
+https://github.com/r00t-3xp10it/morpheus.git
+
+Nili (network scan)
+https://github.com/niloofarkheirkhah/nili.git
+
+Outis (RAT)
+https://github.com/SySS-Research/outis.git
+
+Portia (internal network pentest)
+https://github.com/SpiderLabs/portia.git
+
+PyMultiTor (Multi threaded Tor Proxy)
+https://github.com/realgam3/pymultitor.git
+
+Scutum (ARP Firewall)
+https://github.com/K4YT3X/SCUTUM.git
+
+Xerosploit (Man in the middle framework)
+https://github.com/LionSec/xerosploit.git
+
+RDPY (RDP written in Python)
+https://github.com/citronneur/rdpy.git
+
+Ninja Shell (Port knocking using different protocols)
+https://github.com/CoolerVoid/ninja_shell.git
+
+Passhunt (Default Credential Exploiter)
+https://github.com/Viralmaniar/Passhunt.git
+
+Whonows (DNS Rebinding attacks)
+https://github.com/brannondorsey/whonow.git
+
+Polymorph (Packet manipulation on the fly)
+https://github.com/shramos/polymorph.git
+
+PivotSuite (Network Pivoting Toolkit)
+https://github.com/RedTeamOperations/PivotSuite.git
+
+Stoaway (Multiproxying)
+https://github.com/ph4ntonn/Stowaway.git
+
+Lsassy (extract lsass credentials remotely)
+https://github.com/Hackndo/lsassy.git
+
+Simple Live Data Collection Tool (name speaks for itself)
+https://github.com/LetsDefend/Simple-Live-Data-Collection.git
+
+NAT Slipstreaming
+https://github.com/samyk/slipstream.git
+
+enum4linux-ng.py (Numeration based on the linux version in Python)
+https://github.com/cddmp/enum4linux-ng.git
+
+Arbitrium-RAT (asthe name states)
+https://github.com/BenChaliah/Arbitrium-RAT.git
+
+Defeat-Defender (Disable Winshit10 Defender/Tamper Protection)
+https://github.com/swagkarna/Defeat-Defender.git
+
+Reverse-SSH (reverse ssh-server)
+https://github.com/Fahrj/reverse-ssh.git
+
+QueenSono (Data extraction via ICMP)
+https://github.com/ariary/QueenSono.git
+
+Attack-Surface-Framework (Monitoring)
+https://github.com/vmware-labs/attack-surface-framework.git
+
+Tor-Rootkit (A Python 3 standalone Windows 10 / Linux Rootkit)
+https://github.com/emcruise/tor-rootkit

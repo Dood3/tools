@@ -1,0 +1,122 @@
+Chimera (PowerShell obfuscation script)
+https://github.com/tokyoneon/Chimera.git
+
+Powershell Empire
+https://github.com/EmpireProject/Empire.git
+
+Thundershell (Powershell RAT)
+https://github.com/Mr-Un1k0d3r/ThunderShell.git
+
+MacPhish (macro payload)
+https://github.com/cldrn/macphish.git
+
+MPC (msfvenom payload generator)
+https://github.com/g0tmi1k/mpc.git
+
+NPS (avoid detection of Powershell payload)
+https://github.com/trustedsec/nps_payload.git
+
+OWASP-ZSC (Shellcode Obfuscator)
+https://github.com/viraintel/OWASP-ZSC.git
+
+P4wnP1 (RaspberryPi USB attack platform)
+https://github.com/mame82/P4wnP1.git
+
+Powershdll (run Powershell with rundll32)
+https://github.com/p3nt4/PowerShdll.git
+
+PowerSploit
+https://github.com/PowerShellMafia/PowerSploit.git
+
+PyDictor (wordlist generator)
+https://github.com/LandGrey/pydictor.git
+
+Revoke-Obfuscation (Powershell ofuscation detection framework)
+https://github.com/danielbohannon/Revoke-Obfuscation.git
+
+InurlBr
+https://github.com/googleinurl/SCANNER-INURLBR.git
+
+Shellshock-Hunter  BING (Bing dorker for shellshock)
+https://github.com/DanMcInerney/shellshock-hunter.git
+
+Shellshock Hunter GOOGLE (Google dorker dor shellshock)
+https://github.com/DanMcInerney/shellshock-hunter-google
+
+SQLMap
+https://github.com/sqlmapproject/sqlmap.git
+
+UniByAV (shellcode Obfuscation)
+https://github.com/Mr-Un1k0d3r/UniByAv.git
+
+Unicorn (Powershell downgrade attack)
+https://github.com/trustedsec/unicorn.git
+
+Venom (msf shellcode generator)
+https://sourceforge.net/projects/crisp-shellcode-generator/
+
+WhiteWidow (sql injection scanner)
+https://github.com/WhitewidowScanner/whitewidow.git
+
+Xorpy (XOR encryption utility)
+https://github.com/ShawnDEvans/xorpy.git
+
+Shellter
+https://www.shellterproject.com/download/
+
+ACLight [Powershell script for discovering privileged accounts (shadow admins) in a domain]
+https://github.com/cyberark/ACLight.git
+
+Reptile (Linux rootkit)
+https://github.com/f0rb1dd3n/Reptile.git
+
+Dr0p1t-Framework (dropper)
+https://github.com/D4Vinci/Dr0p1t-Framework.git
+
+ICMP-Shell
+https://github.com/inquisb/icmpsh.git
+
+Vegile (backdoor/rootkit setup)
+https://github.com/Screetsec/Vegile.git
+
+Macro_Pack (malicious Macro generator)
+https://github.com/sevagas/macro_pack.git
+
+Sudohulk (try privilege escalation changing sudo command)
+https://github.com/hc0d3r/sudohulk.git
+
+Internal-Monologue (retrieve NTLM-Hashes without touching LSASS)
+https://github.com/eladshamir/Internal-Monologue.git
+
+BadPdf (Retrieve NTLM Hashes with a pdf)
+https://github.com/deepzec/Bad-Pdf.git
+
+PowerUpSQL (Attacking SQL-Server with Powershell)
+https://github.com/NetSPI/PowerUpSQL.git
+
+RouterSploit (Exploitation Framework for embedded devices)
+https://github.com/threat9/routersploit.git
+
+Xencrypt (Powershell obfuscation/ AV Evasion)
+https://github.com/the-xentropy/xencrypt.git
+
+HiveJack (Extract SAML, SYSTM & SECURITY hives from an already compromised system)
+https://github.com/Viralmaniar/HiveJack.git
+
+K55 (Linux x86_64 Process Injection Utility)
+https://github.com/josh0xA/K55.git
+
+LazySign (Steal valid Certs from legit Win-Binaries to sign your own)
+https://github.com/jfmaes/LazySign.git
+
+SpoolSploit (print spooler exploits containerized)
+https://github.com/BeetleChunks/SpoolSploit.git
+
+PowerShx (Unmanaged PowerShell execution using DLLs or a standalone executable / bypassing AMSI & running PS Cmdlets)
+https://github.com/iomoath/PowerShx.git
+
+RottenPotato-NG (New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools)
+https://github.com/breenmachine/RottenPotatoNG
+
+EXOCET (AV-Evasion in Go)
+https://github.com/tanc7/EXOCET-AV-Evasion
