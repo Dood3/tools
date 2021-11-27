@@ -1,2 +1,5 @@
+Resources to learn
+https://github.com/AidenPearce369/ExploitDev
+
 ELFXtract (automated analysis tool used for enumerating ELF binaries)
 https://github.com/AidenPearce369/elfxtract.git
