@@ -9,3 +9,6 @@ https://github.com/LOLBAS-Project/LOLBAS / https://lolbas-project.github.io
 
 linux-chrome-recon (Information gathering tool used to enumerate all possible data about an user from Google-Chrome browser from any Linux distribution)
 https://github.com/AidenPearce369/linux-chrome-recon.git
+
+UAC bypass - DLL hijacking
+https://github.com/SecuProject/DLLHijackingScanner.git
