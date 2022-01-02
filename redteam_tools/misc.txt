@@ -120,3 +120,6 @@ https://github.com/breenmachine/RottenPotatoNG
 
 EXOCET (AV-Evasion in Go)
 https://github.com/tanc7/EXOCET-AV-Evasion
+
+Skrull (malware DRM using ghosting techinque)
+https://github.com/aaaddress1/Skrull.git
