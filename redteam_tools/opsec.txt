@@ -7,8 +7,5 @@ https://github.com/eldraco/Salamandra.git
 RETDEC (machine-code decompiler)
 https://github.com/avast-tl/retdec.git
 
-CoffeeMiner (collaborative (mitm) cryptocurrency mining pool in wifi networks)
-https://github.com/arnaucode/coffeeMiner.git
-
 Log-Killer (Delete all logfiles on Windows & Linux)
 https://github.com/Rizer0/Log-killer.git
