@@ -123,3 +123,6 @@ https://github.com/tanc7/EXOCET-AV-Evasion
 
 Skrull (malware DRM using ghosting techinque)
 https://github.com/aaaddress1/Skrull.git
+
+CoffeeMiner (collaborative (mitm) cryptocurrency mining pool in wifi networks)
+https://github.com/arnaucode/coffeeMiner.git
