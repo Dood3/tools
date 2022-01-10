@@ -126,3 +126,6 @@ https://github.com/aaaddress1/Skrull.git
 
 CoffeeMiner (collaborative (mitm) cryptocurrency mining pool in wifi networks)
 https://github.com/arnaucode/coffeeMiner.git
+
+ShellcodeEncryptor
+https://github.com/plackyhacker/Shellcode-Encryptor.git
