@@ -12,3 +12,6 @@ https://hybrid-analysis.com
 
 PSDecode (decode obfuscated PowerShell scripts)
 https://github.com/R3MRUM/PSDecode
+
+RCLocals (Linux startup possibilities to check for backdoors, process integrity,  DLL injected processes, etc.)
+https://github.com/YJesus/RCLocals.git
