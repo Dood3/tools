@@ -3,3 +3,6 @@ https://github.com/AidenPearce369/ExploitDev
 
 ELFXtract (automated analysis tool used for enumerating ELF binaries)
 https://github.com/AidenPearce369/elfxtract.git
+
+GDB-Frontend
+https://github.com/rohanrhu/gdb-frontend.git
