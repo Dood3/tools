@@ -13,9 +13,6 @@ https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
 PwnDrop (payload Hosting self-deployed)
 https://github.com/kgretzky/pwndrop.git
 
-GDB-Frontend
-https://github.com/rohanrhu/gdb-frontend.git
-
 Keylogger
 https://github.com/aydinnyunus/Keylogger.git
 
