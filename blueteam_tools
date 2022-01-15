@@ -15,3 +15,6 @@ https://github.com/R3MRUM/PSDecode
 
 RCLocals (Linux startup possibilities to check for backdoors, process integrity,  DLL injected processes, etc.)
 https://github.com/YJesus/RCLocals.git
+
+Espoofer (testing tool to bypass SPF, DKIM, and DMARC authentication)
+https://github.com/chenjj/espoofer.git
