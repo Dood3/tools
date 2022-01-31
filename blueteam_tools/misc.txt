@@ -18,3 +18,6 @@ https://github.com/YJesus/RCLocals.git
 
 Espoofer (testing tool to bypass SPF, DKIM, and DMARC authentication)
 https://github.com/chenjj/espoofer.git
+
+CrowdStrike Reporting Tool for Azure (CRT)
+https://github.com/CrowdStrike/CRT.git
