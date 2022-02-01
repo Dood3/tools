@@ -129,3 +129,6 @@ https://github.com/arnaucode/coffeeMiner.git
 
 ShellcodeEncryptor
 https://github.com/plackyhacker/Shellcode-Encryptor.git
+
+Bluffy (Convert Shellcode into different formats)
+https://github.com/ad-995/bluffy.git
