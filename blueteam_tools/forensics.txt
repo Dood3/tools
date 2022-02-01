@@ -1,0 +1,8 @@
+=> Data Aquisition:
+https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape
+https://www.autopsy.com
+https://www.exterro.com/ftk-imager
+
+=> Forensics
+https://accessdata.com/product-download/registry-viewer-2-0-0
+https://ericzimmerman.github.io/#!index.md
