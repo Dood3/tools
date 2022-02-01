@@ -93,3 +93,6 @@ https://github.com/vmware-labs/attack-surface-framework.git
 
 Tor-Rootkit (A Python 3 standalone Windows 10 / Linux Rootkit)
 https://github.com/emcruise/tor-rootkit
+
+Rathole (Reverse proxy in Rust)
+https://github.com/rapiz1/rathole.git
