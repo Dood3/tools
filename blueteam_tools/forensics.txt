@@ -6,3 +6,6 @@ https://www.exterro.com/ftk-imager
 => Forensics
 https://accessdata.com/product-download/registry-viewer-2-0-0
 https://ericzimmerman.github.io/#!index.md
+
+=> File Recovery
+https://github.com/PabloLec/RecoverPy.git (Recover overwritten or deleted data)
