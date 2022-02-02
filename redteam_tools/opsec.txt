@@ -9,3 +9,6 @@ https://github.com/avast-tl/retdec.git
 
 Log-Killer (Delete all logfiles on Windows & Linux)
 https://github.com/Rizer0/Log-killer.git
+
+Phant0m (Windows Event Log Killer)
+https://github.com/hlldz/Phant0m.git
