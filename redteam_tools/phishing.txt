@@ -33,3 +33,12 @@ https://github.com/jaykali/maskphish.git
 
 CamPhish (capture screenshots)
 https://github.com/techchipnet/CamPhish
+
+MacPhish (macro payload)
+https://github.com/cldrn/macphish.git
+
+Macro_Pack (malicious Macro generator)
+https://github.com/sevagas/macro_pack.git
+
+BadPdf (Retrieve NTLM Hashes with a pdf)
+https://github.com/deepzec/Bad-Pdf.git
