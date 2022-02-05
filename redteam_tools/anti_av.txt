@@ -1,0 +1,29 @@
+EXOCET (AV-Evasion in Go)
+https://github.com/tanc7/EXOCET-AV-Evasion
+
+Skrull (malware DRM using ghosting techinque)
+https://github.com/aaaddress1/Skrull.git
+
+ShellcodeEncryptor
+https://github.com/plackyhacker/Shellcode-Encryptor.git
+
+Bluffy (Convert Shellcode into different formats)
+https://github.com/ad-995/bluffy.git
+
+Shellter
+https://www.shellterproject.com/download/
+
+Xorpy (XOR encryption utility)
+https://github.com/ShawnDEvans/xorpy.git
+
+UniByAV (shellcode Obfuscation)
+https://github.com/Mr-Un1k0d3r/UniByAv.git
+
+NPS (avoid detection of Powershell payload)
+https://github.com/trustedsec/nps_payload.git
+
+Chimera (PowerShell obfuscation script)
+https://github.com/tokyoneon/Chimera.git
+
+OWASP-ZSC (Shellcode Obfuscator)
+https://github.com/viraintel/OWASP-ZSC.git
