@@ -1,23 +1,11 @@
-Chimera (PowerShell obfuscation script)
-https://github.com/tokyoneon/Chimera.git
-
 Powershell Empire
 https://github.com/EmpireProject/Empire.git
 
 Thundershell (Powershell RAT)
 https://github.com/Mr-Un1k0d3r/ThunderShell.git
 
-MacPhish (macro payload)
-https://github.com/cldrn/macphish.git
-
 MPC (msfvenom payload generator)
 https://github.com/g0tmi1k/mpc.git
-
-NPS (avoid detection of Powershell payload)
-https://github.com/trustedsec/nps_payload.git
-
-OWASP-ZSC (Shellcode Obfuscator)
-https://github.com/viraintel/OWASP-ZSC.git
 
 P4wnP1 (RaspberryPi USB attack platform)
 https://github.com/mame82/P4wnP1.git
@@ -46,9 +34,6 @@ https://github.com/DanMcInerney/shellshock-hunter-google
 SQLMap
 https://github.com/sqlmapproject/sqlmap.git
 
-UniByAV (shellcode Obfuscation)
-https://github.com/Mr-Un1k0d3r/UniByAv.git
-
 Unicorn (Powershell downgrade attack)
 https://github.com/trustedsec/unicorn.git
 
@@ -57,12 +42,6 @@ https://sourceforge.net/projects/crisp-shellcode-generator/
 
 WhiteWidow (sql injection scanner)
 https://github.com/WhitewidowScanner/whitewidow.git
-
-Xorpy (XOR encryption utility)
-https://github.com/ShawnDEvans/xorpy.git
-
-Shellter
-https://www.shellterproject.com/download/
 
 ACLight [Powershell script for discovering privileged accounts (shadow admins) in a domain]
 https://github.com/cyberark/ACLight.git
@@ -79,17 +58,11 @@ https://github.com/inquisb/icmpsh.git
 Vegile (backdoor/rootkit setup)
 https://github.com/Screetsec/Vegile.git
 
-Macro_Pack (malicious Macro generator)
-https://github.com/sevagas/macro_pack.git
-
 Sudohulk (try privilege escalation changing sudo command)
 https://github.com/hc0d3r/sudohulk.git
 
 Internal-Monologue (retrieve NTLM-Hashes without touching LSASS)
 https://github.com/eladshamir/Internal-Monologue.git
-
-BadPdf (Retrieve NTLM Hashes with a pdf)
-https://github.com/deepzec/Bad-Pdf.git
 
 PowerUpSQL (Attacking SQL-Server with Powershell)
 https://github.com/NetSPI/PowerUpSQL.git
@@ -118,17 +91,5 @@ https://github.com/iomoath/PowerShx.git
 RottenPotato-NG (New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools)
 https://github.com/breenmachine/RottenPotatoNG
 
-EXOCET (AV-Evasion in Go)
-https://github.com/tanc7/EXOCET-AV-Evasion
-
-Skrull (malware DRM using ghosting techinque)
-https://github.com/aaaddress1/Skrull.git
-
 CoffeeMiner (collaborative (mitm) cryptocurrency mining pool in wifi networks)
 https://github.com/arnaucode/coffeeMiner.git
-
-ShellcodeEncryptor
-https://github.com/plackyhacker/Shellcode-Encryptor.git
-
-Bluffy (Convert Shellcode into different formats)
-https://github.com/ad-995/bluffy.git
