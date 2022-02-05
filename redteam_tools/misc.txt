@@ -93,3 +93,6 @@ https://github.com/breenmachine/RottenPotatoNG
 
 CoffeeMiner (collaborative (mitm) cryptocurrency mining pool in wifi networks)
 https://github.com/arnaucode/coffeeMiner.git
+
+SQLRecon (MS SQL Toolkit for recon/post)
+https://github.com/skahwah/SQLRecon.git
