@@ -9,3 +9,6 @@ https://github.com/rohanrhu/gdb-frontend.git
 
 PyInstaller Extractor
 https://github.com/extremecoders-re/pyinstxtractor
+
+FireEye Labs Query-Oriented Debugger
+https://github.com/mandiant/flare-qdb
