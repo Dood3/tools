@@ -6,3 +6,6 @@ https://github.com/AidenPearce369/elfxtract.git
 
 GDB-Frontend
 https://github.com/rohanrhu/gdb-frontend.git
+
+PyInstaller Extractor
+https://github.com/extremecoders-re/pyinstxtractor
