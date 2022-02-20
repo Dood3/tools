@@ -27,3 +27,6 @@ https://github.com/spectertraww/PwnLnX.git
 
 Limekighter (create a spoof code signing certificates)
 https://github.com/Tylous/Limelighter.git
+
+SocialPwned (Osint emails from Instagram, Linkedin and Twitter)
+https://github.com/MrTuxx/SocialPwned
