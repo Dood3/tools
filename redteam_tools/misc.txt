@@ -22,26 +22,17 @@ https://github.com/LandGrey/pydictor.git
 Revoke-Obfuscation (Powershell ofuscation detection framework)
 https://github.com/danielbohannon/Revoke-Obfuscation.git
 
-InurlBr
-https://github.com/googleinurl/SCANNER-INURLBR.git
-
 Shellshock-Hunter  BING (Bing dorker for shellshock)
 https://github.com/DanMcInerney/shellshock-hunter.git
 
 Shellshock Hunter GOOGLE (Google dorker dor shellshock)
 https://github.com/DanMcInerney/shellshock-hunter-google
 
-SQLMap
-https://github.com/sqlmapproject/sqlmap.git
-
 Unicorn (Powershell downgrade attack)
 https://github.com/trustedsec/unicorn.git
 
 Venom (msf shellcode generator)
 https://sourceforge.net/projects/crisp-shellcode-generator/
-
-WhiteWidow (sql injection scanner)
-https://github.com/WhitewidowScanner/whitewidow.git
 
 ACLight [Powershell script for discovering privileged accounts (shadow admins) in a domain]
 https://github.com/cyberark/ACLight.git
@@ -99,3 +90,5 @@ https://github.com/skahwah/SQLRecon.git
 
 JNDI-Exploit-Kit
 https://github.com/pimps/JNDI-Exploit-Kit
+
+
