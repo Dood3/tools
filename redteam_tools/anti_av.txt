@@ -33,3 +33,6 @@ https://github.com/bats3c/darkarmour
 
 Shellcode Tester (Windows tool)
 https://github.com/helviojunior/shellcodetester
+
+WMIHACKER (.vbs)
+https://github.com/rootclay/WMIHACKER
