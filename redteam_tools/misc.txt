@@ -96,3 +96,6 @@ https://github.com/arnaucode/coffeeMiner.git
 
 SQLRecon (MS SQL Toolkit for recon/post)
 https://github.com/skahwah/SQLRecon.git
+
+JNDI-Exploit-Kit
+https://github.com/pimps/JNDI-Exploit-Kit
