@@ -21,3 +21,6 @@ https://github.com/chenjj/espoofer.git
 
 CrowdStrike Reporting Tool for Azure (CRT)
 https://github.com/CrowdStrike/CRT.git
+
+PSPKIAudit (audit Active Directory Certificate Services (AD CS))
+https://github.com/GhostPack/PSPKIAudit
