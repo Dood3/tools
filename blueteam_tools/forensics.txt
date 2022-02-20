@@ -9,3 +9,6 @@ https://ericzimmerman.github.io/#!index.md
 
 => File Recovery
 https://github.com/PabloLec/RecoverPy.git (Recover overwritten or deleted data)
+
+=> Misc
+https://github.com/bishopfox/unredacter
