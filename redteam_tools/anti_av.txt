@@ -27,3 +27,6 @@ https://github.com/tokyoneon/Chimera.git
 
 OWASP-ZSC (Shellcode Obfuscator)
 https://github.com/viraintel/OWASP-ZSC.git
+
+DarkArmour (AV-Evasion from memory)
+https://github.com/bats3c/darkarmour
