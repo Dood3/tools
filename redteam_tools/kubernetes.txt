@@ -1,0 +1,3 @@
+==> https://github.com/BishopFox/badPods
+-> Create "bad" pod:
+https://github.com/BishopFox/badPods/tree/main/manifests/everything-allowed#pod-creation--access
