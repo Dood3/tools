@@ -96,3 +96,6 @@ https://github.com/emcruise/tor-rootkit
 
 Rathole (Reverse proxy in Rust)
 https://github.com/rapiz1/rathole.git
+
+NTLMRecon (as the name states)
+https://github.com/pwnfoo/NTLMRecon.git
