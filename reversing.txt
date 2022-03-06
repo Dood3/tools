@@ -12,3 +12,6 @@ https://github.com/extremecoders-re/pyinstxtractor
 
 FireEye Labs Query-Oriented Debugger
 https://github.com/mandiant/flare-qdb
+
+LiteFuzz (userland binaries & servers)
+https://github.com/sec-tools/litefuzz
