@@ -99,3 +99,6 @@ https://github.com/rapiz1/rathole.git
 
 NTLMRecon (as the name states)
 https://github.com/pwnfoo/NTLMRecon.git
+
+BruteShark (processing and inspection of network traffic)
+https://github.com/odedshimon/BruteShark.git
