@@ -24,3 +24,6 @@ https://github.com/CrowdStrike/CRT.git
 
 PSPKIAudit (audit Active Directory Certificate Services (AD CS))
 https://github.com/GhostPack/PSPKIAudit
+
+Chain Reactor (detection and response coverage on Linux)
+https://github.com/redcanaryco/chain-reactor.git
