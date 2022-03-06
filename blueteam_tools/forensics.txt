@@ -7,9 +7,12 @@ https://www.exterro.com/ftk-imager
 https://accessdata.com/product-download/registry-viewer-2-0-0
 https://ericzimmerman.github.io/#!index.md
 https://github.com/andreafortuna/autotimeliner
+https://github.com/kevoreilly/CAPEv2.git
 
 => File Recovery
 https://github.com/PabloLec/RecoverPy.git (Recover overwritten or deleted data)
 
 => Misc
 https://github.com/bishopfox/unredacter
+https://github.com/chaitanyakrishna/iocscraper.git
+https://authz0.hahwul.com
