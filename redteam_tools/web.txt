@@ -122,3 +122,6 @@ https://github.com/lobuhi/byp4xx.git
 
 pFuzz (bypass WAFs)
 https://github.com/RedSection/pFuzz.git
+
+Searpy (Search engine dorker)
+https://github.com/j3ers3/Searpy.git
