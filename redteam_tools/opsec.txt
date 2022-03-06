@@ -12,3 +12,6 @@ https://github.com/Rizer0/Log-killer.git
 
 Phant0m (Windows Event Log Killer)
 https://github.com/hlldz/Phant0m.git
+
+Chaya (privacy through steganography, cryptography and compression) 
+https://github.com/xerohackcom/Chaya.git
