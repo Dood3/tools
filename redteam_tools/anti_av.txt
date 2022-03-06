@@ -36,3 +36,9 @@ https://github.com/helviojunior/shellcodetester
 
 WMIHACKER (.vbs)
 https://github.com/rootclay/WMIHACKER
+
+EDRHunt (Scan for EDRs)
+https://github.com/FourCoreLabs/EDRHunt
+
+Invoke-EDRChecker - PwSh (check for known AV's, EDR's and logging tools)
+https://github.com/PwnDexter/Invoke-EDRChecker
