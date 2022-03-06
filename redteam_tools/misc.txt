@@ -91,8 +91,5 @@ https://github.com/skahwah/SQLRecon.git
 JNDI-Exploit-Kit
 https://github.com/pimps/JNDI-Exploit-Kit
 
-EDRHunt (Scan for EDRs)
-https://github.com/FourCoreLabs/EDRHunt
-
-Invoke-EDRChecker - PwSh (check for known AV's, EDR's and logging tools)
-https://github.com/PwnDexter/Invoke-EDRChecker
+Stegbrute (bruteforce steghide)
+https://github.com/R4yGM/stegbrute.git
