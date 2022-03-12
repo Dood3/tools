@@ -12,3 +12,6 @@ https://github.com/AidenPearce369/linux-chrome-recon.git
 
 UAC bypass - DLL hijacking
 https://github.com/SecuProject/DLLHijackingScanner.git
+
+PwnKit - POC
+https://github.com/luijait/PwnKit-Exploit.git
