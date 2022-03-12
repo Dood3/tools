@@ -1,0 +1,2 @@
+ScanMyCode (static code analysis)
+https://github.com/marcinguy/scanmycode-ce.git
