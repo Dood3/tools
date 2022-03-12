@@ -125,3 +125,6 @@ https://github.com/RedSection/pFuzz.git
 
 Searpy (Search engine dorker)
 https://github.com/j3ers3/Searpy.git
+
+GraphQL-Cop
+https://github.com/dolevf/graphql-cop.git
