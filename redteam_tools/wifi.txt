@@ -48,3 +48,6 @@ https://github.com/hexway/r00kie-kr00kie.git
 
 c41n (automated rogue access point)
 https://github.com/MS-WEB-BN/c41n.git
+
+GONZOsint (search Wifi geolocation)
+https://github.com/GONZOsint/geowifi.git
