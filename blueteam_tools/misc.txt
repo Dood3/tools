@@ -30,3 +30,9 @@ https://github.com/redcanaryco/chain-reactor.git
 
 GoodHound (create actionable output for BloodHound)
 https://github.com/idnahacks/GoodHound.git
+
+Purple Panda (identify privilege escalation paths and dangerous permissions in the cloud/saas configurations)
+https://github.com/carlospolop/PurplePanda.git
+
+S1EM (like the name says)
+https://github.com/V1D1AN/S1EM.git
