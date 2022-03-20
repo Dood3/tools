@@ -27,3 +27,6 @@ https://github.com/GhostPack/PSPKIAudit
 
 Chain Reactor (detection and response coverage on Linux)
 https://github.com/redcanaryco/chain-reactor.git
+
+GoodHound (create actionable output for BloodHound)
+https://github.com/idnahacks/GoodHound.git
