@@ -15,3 +15,6 @@ https://github.com/SecuProject/DLLHijackingScanner.git
 
 PwnKit - POC
 https://github.com/luijait/PwnKit-Exploit.git
+
+WMEye (lateral movement using WMI and remote MSBuild Execution)
+https://github.com/pwn1sher/WMEye.git
