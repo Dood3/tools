@@ -30,3 +30,6 @@ https://github.com/Tylous/Limelighter.git
 
 SocialPwned (Osint emails from Instagram, Linkedin and Twitter)
 https://github.com/MrTuxx/SocialPwned
+
+Lnkbomb (uploading malicious shortcut files to insecure file shares)
+https://github.com/dievus/lnkbomb.git
