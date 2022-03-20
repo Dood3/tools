@@ -48,3 +48,6 @@ https://github.com/michaelweber/Macrome
 
 FakeLogonScreen (fake the Windows logon screen)
 https://github.com/bitsadmin/fakelogonscreen
+
+mip22 
+https://github.com/makdosx/mip22.git
