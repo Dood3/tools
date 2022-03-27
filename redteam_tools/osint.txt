@@ -1,2 +1,5 @@
 Sherlock (hunt social media accounts only with username)
 https://github.com/sherlock-project/sherlock.git
+
+Tikok Scraper (scrape and download useful information from TikTok)
+https://github.com/soxoj/tiktok-scraper.git
