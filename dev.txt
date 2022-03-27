@@ -1,2 +1,5 @@
 ScanMyCode (static code analysis)
 https://github.com/marcinguy/scanmycode-ce.git
+
+CodeCat (static code analysis)
+https://github.com/CoolerVoid/codecat.git
