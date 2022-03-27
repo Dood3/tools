@@ -1,2 +1,5 @@
 OMIGOD
 https://github.com/horizon3ai/CVE-2021-38647.git
+
+Oh365UserFinder (identify valid o365 accounts and domains)
+https://github.com/dievus/Oh365UserFinder.git
