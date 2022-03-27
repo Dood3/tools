@@ -93,3 +93,6 @@ https://github.com/pimps/JNDI-Exploit-Kit
 
 Stegbrute (bruteforce steghide)
 https://github.com/R4yGM/stegbrute.git
+
+SysWhispers3 (evasion by generating header/ASM files implants can use to make direct system calls)
+https://github.com/klezVirus/SysWhispers3.git
