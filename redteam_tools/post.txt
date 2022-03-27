@@ -21,3 +21,6 @@ https://github.com/pwn1sher/WMEye.git
 
 PSRansom (PoC Ransomware simulator)
 https://github.com/JoelGMSec/PSRansom.git
+
+unquotedPoC (create malicious service executable)
+https://github.com/mattymcfatty/unquotedPoC.git
