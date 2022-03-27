@@ -7,6 +7,9 @@ https://github.com/portantier/habu.git
 BloodHound (Active Directory)
 https://github.com/BloodHoundAD/BloodHound.git
 
+ADExplorerSnapshot.py (Snapshot parser - ingestor for BloodHound)
+https://github.com/c3c/ADExplorerSnapshot.py.git
+
 DnsCat2 (tunneling)
 https://github.com/iagox86/dnscat2.git
 
