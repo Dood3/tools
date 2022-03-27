@@ -105,3 +105,6 @@ https://github.com/odedshimon/BruteShark.git
 
 Vortex (VPN Reconnaissance, Testing, Enumeration and Exploitation)
 https://github.com/klezVirus/vortex.git
+
+Evilnginx2 (man-in-the-middle attack framework)
+https://github.com/kgretzky/evilginx2.git
