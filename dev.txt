@@ -3,3 +3,6 @@ https://github.com/marcinguy/scanmycode-ce.git
 
 CodeCat (static code analysis)
 https://github.com/CoolerVoid/codecat.git
+
+Cross browser testing
+https://www.browserling.com
