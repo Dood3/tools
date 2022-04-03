@@ -36,3 +36,9 @@ https://github.com/dievus/lnkbomb.git
 
 Sellcode Template (modifiable shellcode template)
 https://github.com/Cracked5pider/ShellcodeTemplate.git
+
+Ostorlab (Open-Source Security Scanner)
+https://github.com/Ostorlab/ostorlab.git
+
+Casper-Fs (Linux Kernel Module generator to protect or hide a custom list of files)
+https://github.com/CoolerVoid/casper-fs.git
