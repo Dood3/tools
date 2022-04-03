@@ -45,3 +45,6 @@ https://github.com/PwnDexter/Invoke-EDRChecker
 
 RefleXXion (bypassing user-mode hooks)
 https://github.com/hlldz/RefleXXion.git
+
+Nimcrypt2 (PE packer/loader designed to bypass AV/EDR)
+https://github.com/icyguider/Nimcrypt2.git
