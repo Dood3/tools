@@ -9,6 +9,9 @@ https://ericzimmerman.github.io/#!index.md
 https://github.com/andreafortuna/autotimeliner
 https://github.com/kevoreilly/CAPEv2.git
 https://github.com/CIRCL/factual-rules-generator.git
+https://github.com/Hamza-Megahed/odin.git
+https://github.com/Neo23x0/Loki.git
+https://github.com/AbdulRhmanAlfaifi/Fennec.git
 
 => File Recovery
 https://github.com/PabloLec/RecoverPy.git (Recover overwritten or deleted data)
