@@ -3,3 +3,6 @@ https://github.com/horizon3ai/CVE-2021-38647.git
 
 Oh365UserFinder (identify valid o365 accounts and domains)
 https://github.com/dievus/Oh365UserFinder.git
+
+Slyther (check read/write/delete access for S3 buckets)
+https://github.com/iamavu/Slyther.git
