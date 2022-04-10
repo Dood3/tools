@@ -123,3 +123,6 @@ https://github.com/NHAS/reverse_ssh.git
 
 Cloak (circumvent censorship)
 https://github.com/cbeuw/Cloak.git
+
+Skanuvaty (lightspeed fast dns/network/port scanner)
+https://github.com/Esc4iCEscEsc/skanuvaty.git
