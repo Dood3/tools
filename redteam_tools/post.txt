@@ -24,3 +24,6 @@ https://github.com/JoelGMSec/PSRansom.git
 
 unquotedPoC (create malicious service executable)
 https://github.com/mattymcfatty/unquotedPoC.git
+
+ScheduleRunner (customize scheduled task for both persistence and lateral movement)
+https://github.com/netero1010/ScheduleRunner.git
