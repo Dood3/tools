@@ -42,3 +42,6 @@ https://github.com/Ostorlab/ostorlab.git
 
 Casper-Fs (Linux Kernel Module generator to protect or hide a custom list of files)
 https://github.com/CoolerVoid/casper-fs.git
+
+OffensiveNotion (Notion as C2 server)
+https://github.com/mttaggart/OffensiveNotion.git
