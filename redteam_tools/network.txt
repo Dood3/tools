@@ -117,3 +117,6 @@ https://github.com/dndx/phantun.git
 
 ICMP Transfer Tools (move files to and from Windows hosts in restricted network environments)
 https://github.com/icyguider/ICMP-TransferTools.git
+
+Reverse SSH (Chisel on Steroids)
+https://github.com/NHAS/reverse_ssh.git
