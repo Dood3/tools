@@ -120,3 +120,6 @@ https://github.com/icyguider/ICMP-TransferTools.git
 
 Reverse SSH (Chisel on Steroids)
 https://github.com/NHAS/reverse_ssh.git
+
+Cloak (circumvent censorship)
+https://github.com/cbeuw/Cloak.git
