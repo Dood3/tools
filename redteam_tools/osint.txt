@@ -3,3 +3,6 @@ https://github.com/sherlock-project/sherlock.git
 
 Tikok Scraper (scrape and download useful information from TikTok)
 https://github.com/soxoj/tiktok-scraper.git
+
+Octosuite (Osint scraper)
+https://github.com/rly0nheart/octosuite.git
