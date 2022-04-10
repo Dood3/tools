@@ -131,3 +131,6 @@ https://github.com/dolevf/graphql-cop.git
 
 Request Smuggler (Http request smuggling vulnerability scanner - Rust)
 https://github.com/Sh1Yo/request_smuggler.git
+
+GitBleed (extracting data from mirrorred git repositories)
+https://github.com/nightwatchcybersecurity/gitbleed_tools.git
