@@ -48,3 +48,6 @@ https://github.com/hlldz/RefleXXion.git
 
 Nimcrypt2 (PE packer/loader designed to bypass AV/EDR)
 https://github.com/icyguider/Nimcrypt2.git
+
+Nimpacket (Nim-based packer for .NET executables and raw shellcode)
+https://github.com/chvancooten/NimPackt-v1.git
