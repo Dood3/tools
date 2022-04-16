@@ -15,3 +15,6 @@ https://github.com/mandiant/flare-qdb
 
 LiteFuzz (userland binaries & servers)
 https://github.com/sec-tools/litefuzz
+
+Maat (Dynamic Symbolic Execution and Binary Analysis framework)
+https://github.com/trailofbits/maat.git
