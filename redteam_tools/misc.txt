@@ -96,3 +96,6 @@ https://github.com/R4yGM/stegbrute.git
 
 SysWhispers3 (evasion by generating header/ASM files implants can use to make direct system calls)
 https://github.com/klezVirus/SysWhispers3.git
+
+ModifyCertTemplate (modifying ADCS certificate templates)
+https://github.com/fortalice/modifyCertTemplate.git
