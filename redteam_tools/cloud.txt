@@ -6,3 +6,6 @@ https://github.com/dievus/Oh365UserFinder.git
 
 Slyther (check read/write/delete access for S3 buckets)
 https://github.com/iamavu/Slyther.git
+
+365Inspect (security assessment of Microsoft Office 365 environments in Powershell)
+https://github.com/soteria-security/365Inspect.git
