@@ -9,3 +9,6 @@ https://github.com/iamavu/Slyther.git
 
 365Inspect (security assessment of Microsoft Office 365 environments in Powershell)
 https://github.com/soteria-security/365Inspect.git
+
+Poro (Scan for publicly accessible assets on your AWS environment)
+https://github.com/9rnt/poro.git
