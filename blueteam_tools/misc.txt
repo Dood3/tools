@@ -36,3 +36,8 @@ https://github.com/carlospolop/PurplePanda.git
 
 S1EM (like the name says)
 https://github.com/V1D1AN/S1EM.git
+
+WhoLeaked (file-sharing tool that allows you to find the responsible person in case of a leakage)
+https://github.com/utkusen/wholeaked.git
+
+
