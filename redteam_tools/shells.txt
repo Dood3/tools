@@ -3,3 +3,6 @@ https://github.com/JoelGMSec/PyShell.git
 
 PressShell (Quick & dirty Wordpress Command Execution Shell)
 https://github.com/scheatkode/presshell.git
+
+LDAP Shell (as the name states)
+https://github.com/z-Riocool/ldap_shell.git
