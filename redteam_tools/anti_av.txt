@@ -51,3 +51,6 @@ https://github.com/icyguider/Nimcrypt2.git
 
 Nimpacket (Nim-based packer for .NET executables and raw shellcode)
 https://github.com/chvancooten/NimPackt-v1.git
+
+EDRSandblast (bypass EDR detections)
+https://github.com/wavestone-cdt/EDRSandblast.git
