@@ -54,3 +54,6 @@ https://github.com/chvancooten/NimPackt-v1.git
 
 EDRSandblast (bypass EDR detections)
 https://github.com/wavestone-cdt/EDRSandblast.git
+
+Defeat-Defender (Disable Winshit10 Defender/Tamper Protection)
+https://github.com/swagkarna/Defeat-Defender.git
