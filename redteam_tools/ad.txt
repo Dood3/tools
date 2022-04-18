@@ -1,0 +1,2 @@
+linWinPwn (automated Active Directory Enumeration and Vulnerability checks)
+https://github.com/lefayjey/linWinPwn.git
