@@ -79,11 +79,8 @@ https://github.com/samyk/slipstream.git
 enum4linux-ng.py (Numeration based on the linux version in Python)
 https://github.com/cddmp/enum4linux-ng.git
 
-Arbitrium-RAT (asthe name states)
+Arbitrium-RAT (as the name states)
 https://github.com/BenChaliah/Arbitrium-RAT.git
-
-Defeat-Defender (Disable Winshit10 Defender/Tamper Protection)
-https://github.com/swagkarna/Defeat-Defender.git
 
 Reverse-SSH (reverse ssh-server)
 https://github.com/Fahrj/reverse-ssh.git
