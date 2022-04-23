@@ -42,3 +42,6 @@ https://github.com/utkusen/wholeaked.git
 
 Melody (transparent internet sensor built for threat intelligence)
 https://github.com/bonjourmalware/melody.git
+
+Zircolite (Standalone SIGMA-based detection tool for EVTX, Auditd, Sysmon for linux or JSONL/NDJSON Logs)
+https://github.com/wagga40/Zircolite.git
