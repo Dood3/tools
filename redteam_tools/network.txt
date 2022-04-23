@@ -123,3 +123,6 @@ https://github.com/cbeuw/Cloak.git
 
 Skanuvaty (lightspeed fast dns/network/port scanner)
 https://github.com/Esc4iCEscEsc/skanuvaty.git
+
+KrbRelay (Kerberos Relaying)
+https://github.com/cube0x0/KrbRelay.git
