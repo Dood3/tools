@@ -126,3 +126,6 @@ https://github.com/Esc4iCEscEsc/skanuvaty.git
 
 KrbRelay (Kerberos Relaying)
 https://github.com/cube0x0/KrbRelay.git
+
+Smap (passive Nmap like scanner built with shodan.io)
+https://github.com/s0md3v/Smap.git
