@@ -45,3 +45,6 @@ https://github.com/bonjourmalware/melody.git
 
 Zircolite (Standalone SIGMA-based detection tool for EVTX, Auditd, Sysmon for linux or JSONL/NDJSON Logs)
 https://github.com/wagga40/Zircolite.git
+
+Spock SLAF (Shared Library Application Firewall)
+https://github.com/CoolerVoid/spock_slaf.git
