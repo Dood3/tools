@@ -138,3 +138,6 @@ https://github.com/nullt3r/jfscan.git
 
 Sub3suite (graphical subdomain discovery/enumeration)
 https://github.com/3nock/sub3suite.git
+
+Ecapture (capture SSL/TLS traffic)
+https://github.com/ehids/ecapture.git
