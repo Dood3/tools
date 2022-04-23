@@ -129,3 +129,12 @@ https://github.com/cube0x0/KrbRelay.git
 
 Smap (passive Nmap like scanner built with shodan.io)
 https://github.com/s0md3v/Smap.git
+
+DumpSMBShare (dump stuff remotely from a Windows SMB share)
+https://github.com/p0dalirius/DumpSMBShare.git
+
+JfScan (combining nmap with masscan)
+https://github.com/nullt3r/jfscan.git
+
+Sub3suite (graphical subdomain discovery/enumeration)
+https://github.com/3nock/sub3suite.git
