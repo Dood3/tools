@@ -1,2 +1,5 @@
 linWinPwn (automated Active Directory Enumeration and Vulnerability checks)
 https://github.com/lefayjey/linWinPwn.git
+
+ADReaper (enumerate a Active Directory environment with LDAP queries)
+https://github.com/AidenPearce369/ADReaper.git
