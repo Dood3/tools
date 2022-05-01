@@ -48,3 +48,6 @@ https://github.com/wagga40/Zircolite.git
 
 Spock SLAF (Shared Library Application Firewall)
 https://github.com/CoolerVoid/spock_slaf.git
+
+Lupo (malware IOC extractor)
+https://github.com/malienist/lupo.git
