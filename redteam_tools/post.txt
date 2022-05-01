@@ -27,3 +27,6 @@ https://github.com/mattymcfatty/unquotedPoC.git
 
 ScheduleRunner (customize scheduled task for both persistence and lateral movement)
 https://github.com/netero1010/ScheduleRunner.git
+
+DDexec (linux process hijacking)
+https://github.com/arget13/DDexec.git
