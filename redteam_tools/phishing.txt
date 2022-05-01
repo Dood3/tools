@@ -54,3 +54,6 @@ https://github.com/makdosx/mip22.git
 
 BITB (templates for browser in the browser attack)
 https://github.com/mrd0x/BITB.git
+
+O365-Doppelganger (as the name states)
+https://github.com/paranoidninja/O365-Doppelganger.git
