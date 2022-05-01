@@ -18,3 +18,6 @@ https://github.com/sec-tools/litefuzz
 
 Maat (Dynamic Symbolic Execution and Binary Analysis framework)
 https://github.com/trailofbits/maat.git
+
+Cutter (open Source RE Platform)
+https://cutter.re
