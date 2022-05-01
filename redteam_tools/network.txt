@@ -141,3 +141,6 @@ https://github.com/3nock/sub3suite.git
 
 Ecapture (capture SSL/TLS traffic)
 https://github.com/ehids/ecapture.git
+
+Skanuvaty (fast dns/network/port scanner)
+https://github.com/Esc4iCEscEsc/skanuvaty.git
