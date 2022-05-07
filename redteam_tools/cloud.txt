@@ -12,3 +12,6 @@ https://github.com/soteria-security/365Inspect.git
 
 Poro (Scan for publicly accessible assets on your AWS environment)
 https://github.com/9rnt/poro.git
+
+Cliam (Cloud permissions scanner)
+https://github.com/securisec/cliam.git
