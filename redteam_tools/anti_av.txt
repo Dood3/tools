@@ -57,3 +57,6 @@ https://github.com/wavestone-cdt/EDRSandblast.git
 
 Defeat-Defender (Disable Winshit10 Defender/Tamper Protection)
 https://github.com/swagkarna/Defeat-Defender.git
+
+PEzor-Docker (use PEzor in a Docker for fudding)
+https://github.com/4D0niiS/PEzor-Docker.git
