@@ -45,3 +45,6 @@ https://github.com/CoolerVoid/casper-fs.git
 
 OffensiveNotion (Notion as C2 server)
 https://github.com/mttaggart/OffensiveNotion.git
+
+Malicious-pdf (as the name states)
+https://github.com/jonaslejon/malicious-pdf.git
