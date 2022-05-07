@@ -36,3 +36,6 @@ https://github.com/f11snipe/f11.git
 
 Moonwalk (cover your tracks on a Linux machine)
 https://github.com/mufeedvh/moonwalk.git
+
+LHF (find LPE through leaked handles)
+https://github.com/lab52io/LeakedHandlesFinder.git
