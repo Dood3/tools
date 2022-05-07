@@ -33,3 +33,6 @@ https://github.com/arget13/DDexec.git
 
 f11 (fully featured bind shell)
 https://github.com/f11snipe/f11.git
+
+Moonwalk (cover your tracks on a Linux machine)
+https://github.com/mufeedvh/moonwalk.git
