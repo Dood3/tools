@@ -1,3 +1,6 @@
 ==> https://github.com/BishopFox/badPods
 -> Create "bad" pod:
 https://github.com/BishopFox/badPods/tree/main/manifests/everything-allowed#pod-creation--access
+
+k0otkit (Manipulate K8s in a K8s way)
+https://github.com/Metarget/k0otkit.git
