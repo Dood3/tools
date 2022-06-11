@@ -159,3 +159,6 @@ https://github.com/ariary/notionterm.git
 
 Puwr (discover hosts via ssh)
 https://github.com/Xeonrx/Puwr.git
+
+NIPE (make Tor the default gateway)
+https://github.com/htrgouvea/nipe.git
