@@ -57,3 +57,6 @@ https://github.com/NextronSystems/ransomware-simulator.git
 
 Verdict-as-a-Service (scan files for malware and other threats)
 https://github.com/GDATASoftwareAG/vaas.git
+
+Grafiki (parse sysmon events and create graphs)
+https://github.com/lucky-luk3/Grafiki.git
