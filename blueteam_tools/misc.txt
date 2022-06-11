@@ -60,3 +60,6 @@ https://github.com/GDATASoftwareAG/vaas.git
 
 Grafiki (parse sysmon events and create graphs)
 https://github.com/lucky-luk3/Grafiki.git
+
+Heyserial (create hunting rules for deserialization exploitation)
+https://github.com/mandiant/heyserial.git
