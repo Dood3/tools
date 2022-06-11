@@ -2,6 +2,7 @@
 https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape
 https://www.autopsy.com
 https://www.exterro.com/ftk-imager
+https://github.com/alex-cart/LEAF.git (Linux Evidence Acquisition Framework)
 
 => Forensics
 https://accessdata.com/product-download/registry-viewer-2-0-0
