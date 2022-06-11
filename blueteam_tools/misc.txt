@@ -54,3 +54,6 @@ https://github.com/malienist/lupo.git
 
 Ransomware-Simulator
 https://github.com/NextronSystems/ransomware-simulator.git
+
+Verdict-as-a-Service (scan files for malware and other threats)
+https://github.com/GDATASoftwareAG/vaas.git
