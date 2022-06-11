@@ -162,3 +162,6 @@ https://github.com/Xeonrx/Puwr.git
 
 NIPE (make Tor the default gateway)
 https://github.com/htrgouvea/nipe.git
+
+SMB-Session-Spoofing (create a fake SMB Session)
+https://github.com/Sq00ky/SMB-Session-Spoofing.git
