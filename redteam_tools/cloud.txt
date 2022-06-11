@@ -15,3 +15,6 @@ https://github.com/9rnt/poro.git
 
 Cliam (Cloud permissions scanner)
 https://github.com/securisec/cliam.git
+
+AzureRT (offensive cmdlets for Azure & Azure AD)
+https://github.com/mgeeky/AzureRT.git
