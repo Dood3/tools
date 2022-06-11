@@ -39,3 +39,6 @@ https://github.com/mufeedvh/moonwalk.git
 
 LHF (find LPE through leaked handles)
 https://github.com/lab52io/LeakedHandlesFinder.git
+
+COM-Hunter (COM Hijacking persistence tool in C#)
+https://github.com/nickvourd/COM-Hunter.git
