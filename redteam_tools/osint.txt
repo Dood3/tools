@@ -9,3 +9,6 @@ https://github.com/rly0nheart/octosuite.git
 
 Osinteye (username enumeration & reconnaisance suite)
 https://github.com/rly0nheart/osinteye.git
+
+Blackbird (search for accounts by username across 116 sites)
+https://github.com/p1ngul1n0/blackbird.git
