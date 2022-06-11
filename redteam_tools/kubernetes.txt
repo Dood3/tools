@@ -4,3 +4,6 @@ https://github.com/BishopFox/badPods/tree/main/manifests/everything-allowed#pod-
 
 k0otkit (Manipulate K8s in a K8s way)
 https://github.com/Metarget/k0otkit.git
+
+Kubeclarity (SBOM & vulnerability detection challenges)
+https://github.com/openclarity/kubeclarity.git
