@@ -153,3 +153,6 @@ https://github.com/get-get-get-get/PowerProxy.git
 
 Xepor (web routing framework)
 https://github.com/xepor/xepor.git
+
+Notionterm (Embed reverse shell in Notion pages)
+https://github.com/ariary/notionterm.git
