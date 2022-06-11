@@ -143,3 +143,6 @@ https://github.com/sdushantha/dora.git
 
 CRLFsuite (CRLF injection scanner)
 https://github.com/Nefcore/CRLFsuite.git
+
+Socialhunter (crawl given URL to find links to be hijacked)
+https://github.com/utkusen/socialhunter.git
