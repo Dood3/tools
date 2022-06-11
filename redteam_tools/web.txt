@@ -140,3 +140,6 @@ https://github.com/mrd0x/EvilSelenium.git
 
 Dora (scan for exposed API keys)
 https://github.com/sdushantha/dora.git
+
+CRLFsuite (CRLF injection scanner)
+https://github.com/Nefcore/CRLFsuite.git
