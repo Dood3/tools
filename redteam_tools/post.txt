@@ -42,3 +42,6 @@ https://github.com/lab52io/LeakedHandlesFinder.git
 
 COM-Hunter (COM Hijacking persistence tool in C#)
 https://github.com/nickvourd/COM-Hunter.git
+
+DuplicateDump (dump LSASS stealthly)
+https://github.com/Hagrid29/DuplicateDump.git
