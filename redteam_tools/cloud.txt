@@ -21,3 +21,6 @@ https://github.com/mgeeky/AzureRT.git
 
 Offensive Azure (offensive python scripts for Azure)
 https://github.com/blacklanternsecurity/offensive-azure.git
+
+SSOh-No (enumerate users, password spray and perform brute force attacks against Azure AD or O365)
+https://github.com/optionalCTF/SSOh-No.git
