@@ -51,3 +51,6 @@ https://github.com/CoolerVoid/spock_slaf.git
 
 Lupo (malware IOC extractor)
 https://github.com/malienist/lupo.git
+
+Ransomware-Simulator
+https://github.com/NextronSystems/ransomware-simulator.git
