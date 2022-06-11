@@ -147,3 +147,9 @@ https://github.com/ehids/ecapture.git
 
 Skanuvaty (fast dns/network/port scanner)
 https://github.com/Esc4iCEscEsc/skanuvaty.git
+
+PowerProxy (PowerShell SOCKS proxy with reverse proxy capabilities)
+https://github.com/get-get-get-get/PowerProxy.git
+
+Xepor (web routing framework)
+https://github.com/xepor/xepor.git
