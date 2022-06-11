@@ -18,3 +18,6 @@ https://github.com/securisec/cliam.git
 
 AzureRT (offensive cmdlets for Azure & Azure AD)
 https://github.com/mgeeky/AzureRT.git
+
+Offensive Azure (offensive python scripts for Azure)
+https://github.com/blacklanternsecurity/offensive-azure.git
