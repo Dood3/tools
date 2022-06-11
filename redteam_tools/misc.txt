@@ -99,3 +99,9 @@ https://github.com/klezVirus/SysWhispers3.git
 
 ModifyCertTemplate (modifying ADCS certificate templates)
 https://github.com/fortalice/modifyCertTemplate.git
+
+Process overwriting(PE injection technique
+https://github.com/hasherezade/process_overwriting.git
+
+Rogue Assembly Hunter (discover 'interesting' .NET CLR modules in running processes)
+https://github.com/bohops/RogueAssemblyHunter.git
