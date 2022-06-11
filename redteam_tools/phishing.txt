@@ -57,3 +57,9 @@ https://github.com/mrd0x/BITB.git
 
 O365-Doppelganger (as the name states)
 https://github.com/paranoidninja/O365-Doppelganger.git
+
+Zphisher (automated phishing tool)
+https://github.com/htr-tech/zphisher.git
+
+Zphisher-GUI-Back_office (GUI for ZPhisher)
+https://github.com/micro-joan/Zphisher-GUI-Back_office.git
