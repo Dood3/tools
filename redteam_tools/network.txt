@@ -156,3 +156,6 @@ https://github.com/xepor/xepor.git
 
 Notionterm (Embed reverse shell in Notion pages)
 https://github.com/ariary/notionterm.git
+
+Puwr (discover hosts via ssh)
+https://github.com/Xeonrx/Puwr.git
