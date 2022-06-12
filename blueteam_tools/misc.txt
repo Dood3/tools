@@ -63,3 +63,6 @@ https://github.com/lucky-luk3/Grafiki.git
 
 Heyserial (create hunting rules for deserialization exploitation)
 https://github.com/mandiant/heyserial.git
+
+WhiteBeam (transparent endpoint security)
+https://github.com/WhiteBeamSec/WhiteBeam.git
