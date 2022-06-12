@@ -1,7 +1,7 @@
 LaZagne
 https://github.com/AlessandroZ/LaZagne.git
 
-Habu
+Habu (Toolkit)
 https://github.com/portantier/habu.git
 
 BloodHound (Active Directory)
