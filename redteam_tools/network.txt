@@ -165,3 +165,6 @@ https://github.com/htrgouvea/nipe.git
 
 SMB-Session-Spoofing (create a fake SMB Session)
 https://github.com/Sq00ky/SMB-Session-Spoofing.git
+
+Pulsar (dataexfiltration through changing protocols)
+https://github.com/jacopodl/Pulsar.git
