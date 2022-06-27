@@ -45,3 +45,6 @@ https://github.com/nickvourd/COM-Hunter.git
 
 DuplicateDump (dump LSASS stealthly)
 https://github.com/Hagrid29/DuplicateDump.git
+
+MalSCCM (abuse local or remote SCCM servers)
+https://github.com/nettitude/MalSCCM.git
