@@ -48,3 +48,6 @@ https://github.com/Hagrid29/DuplicateDump.git
 
 MalSCCM (abuse local or remote SCCM servers)
 https://github.com/nettitude/MalSCCM.git
+
+MSProbe (find all things on-prem Microsoft for password spraying and enumeration)
+https://github.com/puzzlepeaches/msprobe.git
