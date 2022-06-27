@@ -66,3 +66,6 @@ https://github.com/mandiant/heyserial.git
 
 WhiteBeam (transparent endpoint security)
 https://github.com/WhiteBeamSec/WhiteBeam.git
+
+Hunt sleeping beacons
+https://github.com/thefLink/Hunt-Sleeping-Beacons.git
