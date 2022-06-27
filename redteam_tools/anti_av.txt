@@ -63,3 +63,6 @@ https://github.com/4D0niiS/PEzor-Docker.git
 
 NIM-Loader (Shellcode loader that implements common EDR/AV evasion techniques)
 https://github.com/adamsvoboda/nim-loader.git
+
+FrostByte (build signed shellcode executables)
+https://github.com/pwn1sher/frostbyte.git
