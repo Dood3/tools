@@ -66,3 +66,6 @@ https://github.com/adamsvoboda/nim-loader.git
 
 FrostByte (build signed shellcode executables)
 https://github.com/pwn1sher/frostbyte.git
+
+ExfilKit (Data exfiltration utility for testing detection capabilities)
+https://github.com/tasooshi/exfilkit.git
