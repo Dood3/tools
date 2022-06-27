@@ -51,3 +51,6 @@ https://github.com/nettitude/MalSCCM.git
 
 MSProbe (find all things on-prem Microsoft for password spraying and enumeration)
 https://github.com/puzzlepeaches/msprobe.git
+
+SharpSniper (search for specific users in the domain can be compromised)
+https://github.com/HunnicCyber/SharpSniper.git
