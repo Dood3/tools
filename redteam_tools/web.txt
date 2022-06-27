@@ -149,3 +149,6 @@ https://github.com/utkusen/socialhunter.git
 
 Auth-COV (Web app authorisation coverage scanning)
 https://github.com/authcov/authcov.git
+
+Admin-Panel-Finder
+https://github.com/moeinfatehi/Admin-Panel_Finder.git
