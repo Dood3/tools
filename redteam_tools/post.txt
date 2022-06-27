@@ -54,3 +54,6 @@ https://github.com/puzzlepeaches/msprobe.git
 
 SharpSniper (search for specific users in the domain can be compromised)
 https://github.com/HunnicCyber/SharpSniper.git
+
+SharpEventPersist (PersisPersistence by writing/reading shellcode from Event Logtence by writing/reading shellcode from Event Log)
+https://github.com/improsec/SharpEventPersist.git
