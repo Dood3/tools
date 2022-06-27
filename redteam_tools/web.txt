@@ -146,3 +146,6 @@ https://github.com/Nefcore/CRLFsuite.git
 
 Socialhunter (crawl given URL to find links to be hijacked)
 https://github.com/utkusen/socialhunter.git
+
+Auth-COV (Web app authorisation coverage scanning)
+https://github.com/authcov/authcov.git
