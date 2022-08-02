@@ -108,3 +108,6 @@ https://github.com/bohops/RogueAssemblyHunter.git
 
 Tetanus (Linux/Windows C2 in Rust)
 https://github.com/MythicAgents/tetanus.git
+
+DLInject (Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace)
+https://github.com/DavidBuchanan314/dlinject.git
