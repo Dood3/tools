@@ -164,3 +164,6 @@ https://github.com/lc/cspparse.git
 
 WebView2 (Cookie stealer for Windows)
 https://github.com/mrd0x/WebView2-Cookie-Stealer.git
+
+Bypass-Url-Parser (bypass 40x with cURL)
+https://github.com/laluka/bypass-url-parser.git
