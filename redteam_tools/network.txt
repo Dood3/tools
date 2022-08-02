@@ -177,3 +177,6 @@ https://github.com/blark/aiodnsbrute.git
 
 LiveTargetsFinder (as the name states)
 https://github.com/allyomalley/LiveTargetsFinder.git
+
+Pretender (relaying attacks)
+https://github.com/RedTeamPentesting/pretender.git
