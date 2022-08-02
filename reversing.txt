@@ -21,3 +21,6 @@ https://github.com/trailofbits/maat.git
 
 Cutter (open Source RE Platform)
 https://cutter.re
+
+RESim (Reverse engineering using a full system simulator)
+https://github.com/mfthomps/RESim.git
