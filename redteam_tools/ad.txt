@@ -3,3 +3,6 @@ https://github.com/lefayjey/linWinPwn.git
 
 ADReaper (enumerate a Active Directory environment with LDAP queries)
 https://github.com/AidenPearce369/ADReaper.git
+
+SilentHound (quietly enumerate an Active Directory Domain via LDAP)
+https://github.com/layer8secure/SilentHound.git
