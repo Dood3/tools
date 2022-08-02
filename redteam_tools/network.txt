@@ -174,3 +174,6 @@ https://github.com/nettitude/SharpWSUS.git
 
 AIOdnsbrute (use asyncio to brute force domain names asynchronously)
 https://github.com/blark/aiodnsbrute.git
+
+LiveTargetsFinder (as the name states)
+https://github.com/allyomalley/LiveTargetsFinder.git
