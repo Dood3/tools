@@ -152,3 +152,6 @@ https://github.com/authcov/authcov.git
 
 Admin-Panel-Finder
 https://github.com/moeinfatehi/Admin-Panel_Finder.git
+
+JWTEar (manipulate JSON Web Token)
+https://github.com/KINGSABRI/jwtear.git
