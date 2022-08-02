@@ -24,3 +24,6 @@ https://github.com/blacklanternsecurity/offensive-azure.git
 
 SSOh-No (enumerate users, password spray and perform brute force attacks against Azure AD or O365)
 https://github.com/optionalCTF/SSOh-No.git
+
+AWSEnum (as teh name states)
+https://github.com/bassammaged/awsEnum.git
