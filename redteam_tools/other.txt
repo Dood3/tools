@@ -48,3 +48,6 @@ https://github.com/mttaggart/OffensiveNotion.git
 
 Malicious-pdf (as the name states)
 https://github.com/jonaslejon/malicious-pdf.git
+
+Doenerium (steal a lot of stuff)
+https://github.com/doener2323/doenerium.git
