@@ -7,3 +7,6 @@ https://github.com/Metarget/k0otkit.git
 
 Kubeclarity (SBOM & vulnerability detection challenges)
 https://github.com/openclarity/kubeclarity.git
+
+KubeAudit (audit Kubernetes clusters)
+https://github.com/Shopify/kubeaudit.git
