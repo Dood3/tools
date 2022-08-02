@@ -155,3 +155,6 @@ https://github.com/moeinfatehi/Admin-Panel_Finder.git
 
 JWTEar (manipulate JSON Web Token)
 https://github.com/KINGSABRI/jwtear.git
+
+CSParse (evaluate Content Security Policies)
+https://github.com/lc/cspparse.git
