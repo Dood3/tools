@@ -161,3 +161,6 @@ https://github.com/KINGSABRI/jwtear.git
 
 CSParse (evaluate Content Security Policies)
 https://github.com/lc/cspparse.git
+
+WebView2 (Cookie stealer for Windows)
+https://github.com/mrd0x/WebView2-Cookie-Stealer.git
