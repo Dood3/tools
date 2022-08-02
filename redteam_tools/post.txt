@@ -57,3 +57,6 @@ https://github.com/HunnicCyber/SharpSniper.git
 
 SharpEventPersist (PersisPersistence by writing/reading shellcode from Event Logtence by writing/reading shellcode from Event Log)
 https://github.com/improsec/SharpEventPersist.git
+
+PAMSpy (credential dumper for Linux)
+https://github.com/citronneur/pamspy.git
