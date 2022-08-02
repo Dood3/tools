@@ -24,3 +24,4 @@ https://github.com/bishopfox/unredacter
 https://github.com/chaitanyakrishna/iocscraper.git
 https://authz0.hahwul.com
 https://github.com/codeyourweb/fastfinder.git
+https://github.com/invictus-ir/Microsoft-365-Extractor-Suite.git
