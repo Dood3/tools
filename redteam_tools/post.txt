@@ -60,3 +60,6 @@ https://github.com/improsec/SharpEventPersist.git
 
 PAMSpy (credential dumper for Linux)
 https://github.com/citronneur/pamspy.git
+
+Koh (capture of user credential material via purposeful token/logon session leakage)
+https://github.com/GhostPack/Koh.git
