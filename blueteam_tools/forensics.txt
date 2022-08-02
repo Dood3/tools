@@ -15,6 +15,7 @@ https://github.com/Neo23x0/Loki.git
 https://github.com/AbdulRhmanAlfaifi/Fennec.git
 https://github.com/Johnng007/Live-Forensicator.git
 https://github.com/cado-security/rip_raw.git
+https://github.com/daddycocoaman/dumpscan.git
 
 => File Recovery
 https://github.com/PabloLec/RecoverPy.git (Recover overwritten or deleted data)
