@@ -129,6 +129,9 @@ https://github.com/j3ers3/Searpy.git
 GraphQL-Cop
 https://github.com/dolevf/graphql-cop.git
 
+CrackQL (GraphQL password brute-force and fuzzing utility)
+https://github.com/nicholasaleks/CrackQL.git
+
 Request Smuggler (Http request smuggling vulnerability scanner - Rust)
 https://github.com/Sh1Yo/request_smuggler.git
 
