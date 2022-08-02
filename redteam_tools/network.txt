@@ -171,3 +171,6 @@ https://github.com/jacopodl/Pulsar.git
 
 SharpWSUS (lateral movement through WSUS)
 https://github.com/nettitude/SharpWSUS.git
+
+AIOdnsbrute (use asyncio to brute force domain names asynchronously)
+https://github.com/blark/aiodnsbrute.git
