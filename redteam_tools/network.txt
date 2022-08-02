@@ -168,3 +168,6 @@ https://github.com/Sq00ky/SMB-Session-Spoofing.git
 
 Pulsar (dataexfiltration through changing protocols)
 https://github.com/jacopodl/Pulsar.git
+
+SharpWSUS (lateral movement through WSUS)
+https://github.com/nettitude/SharpWSUS.git
