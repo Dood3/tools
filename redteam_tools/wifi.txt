@@ -54,3 +54,6 @@ https://github.com/GONZOsint/geowifi.git
 
 WEF (offensive framework to the 802.11 networks and protocols)
 https://github.com/D3Ext/WEF.git
+
+Pinecode (WLAN networks auditing tool)
+https://github.com/pinecone-wifi/pinecone.git
