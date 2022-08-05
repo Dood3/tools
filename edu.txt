@@ -3,3 +3,6 @@ https://github.com/mfthomps/Labtainers.git
 
 XSS Challenges
 https://github.com/moeinfatehi/xss_vulnerability_challenges.git
+
+MalDev for Dummies
+https://github.com/chvancooten/maldev-for-dummies.git
