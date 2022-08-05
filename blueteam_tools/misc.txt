@@ -72,3 +72,6 @@ https://github.com/thefLink/Hunt-Sleeping-Beacons.git
 
 Laurel (linux logging)
 https://github.com/threathunters-io/laurel.git
+
+PR-DNSd (Passive-Recursive DNS daemon)
+https://github.com/korc/PR-DNSd.git
