@@ -111,3 +111,6 @@ https://github.com/MythicAgents/tetanus.git
 
 DLInject (Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace)
 https://github.com/DavidBuchanan314/dlinject.git
+
+MacroPack (automatize obfuscation and generation of retro formats such as MS Office documents or VBS like format)
+https://github.com/sevagas/macro_pack.git
