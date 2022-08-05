@@ -1,0 +1,11 @@
+Sliver
+https://github.com/BishopFox/sliver.git
+
+SharpC2
+https://github.com/SharpC2/SharpC2.git
+
+Mythic
+https://github.com/its-a-feature/Mythic.git
+
+Kage (frontend for MSF)
+https://github.com/Zerx0r/Kage.git
