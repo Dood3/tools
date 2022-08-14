@@ -15,3 +15,6 @@ https://github.com/hlldz/Phant0m.git
 
 Chaya (privacy through steganography, cryptography and compression) 
 https://github.com/xerohackcom/Chaya.git
+
+MrKaplan (stay hidden by clearing evidence of execution)
+https://github.com/Idov31/MrKaplan.git
