@@ -9,3 +9,6 @@ https://github.com/its-a-feature/Mythic.git
 
 Kage (frontend for MSF)
 https://github.com/Zerx0r/Kage.git
+
+PHPSploit (fully featured C2 framework which silently persists on a webserver via polymorphic PHP oneliner)
+https://github.com/nil0x42/phpsploit.git
