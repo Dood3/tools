@@ -17,6 +17,7 @@ https://github.com/Johnng007/Live-Forensicator.git
 https://github.com/cado-security/rip_raw.git
 https://github.com/daddycocoaman/dumpscan.git
 https://github.com/thomasareed/pict.git
+https://github.com/odedshimon/BruteShark.git
 
 => File Recovery
 https://github.com/PabloLec/RecoverPy.git (Recover overwritten or deleted data)
