@@ -51,3 +51,6 @@ https://github.com/jonaslejon/malicious-pdf.git
 
 Doenerium (steal a lot of stuff)
 https://github.com/doener2323/doenerium.git
+
+NimGetSyscallStub (Get fresh Syscalls from a fresh ntdll.dll copy)
+https://github.com/S3cur3Th1sSh1t/NimGetSyscallStub.git
