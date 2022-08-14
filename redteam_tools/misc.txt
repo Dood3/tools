@@ -114,3 +114,6 @@ https://github.com/DavidBuchanan314/dlinject.git
 
 MacroPack (automatize obfuscation and generation of retro formats such as MS Office documents or VBS like format)
 https://github.com/sevagas/macro_pack.git
+
+OffensiveVBA (as the name states)
+https://github.com/S3cur3Th1sSh1t/OffensiveVBA.git
