@@ -117,3 +117,6 @@ https://github.com/sevagas/macro_pack.git
 
 OffensiveVBA (as the name states)
 https://github.com/S3cur3Th1sSh1t/OffensiveVBA.git
+
+Concealed Code Execution (tools & tutorials)
+https://github.com/huntandhackett/concealed_code_execution.git
