@@ -24,3 +24,6 @@ https://cutter.re
 
 RESim (Reverse engineering using a full system simulator)
 https://github.com/mfthomps/RESim.git
+
+ROPR (fast multithreaded ROP Gadget finder)
+https://github.com/Ben-Lichtman/ropr.git
