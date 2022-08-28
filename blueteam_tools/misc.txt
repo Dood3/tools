@@ -75,3 +75,6 @@ https://github.com/threathunters-io/laurel.git
 
 PR-DNSd (Passive-Recursive DNS daemon)
 https://github.com/korc/PR-DNSd.git
+
+RPCMon (monitor RPCs)
+https://github.com/cyberark/RPCMon.git
