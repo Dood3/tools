@@ -6,3 +6,6 @@ https://github.com/moeinfatehi/xss_vulnerability_challenges.git
 
 MalDev for Dummies
 https://github.com/chvancooten/maldev-for-dummies.git
+
+crAPI (understand the ten most critical API security risks)
+https://github.com/OWASP/crAPI.git
