@@ -57,3 +57,6 @@ https://github.com/D3Ext/WEF.git
 
 Pinecode (WLAN networks auditing tool)
 https://github.com/pinecone-wifi/pinecone.git
+
+dbMonster (scan for nearby WiFi devices and track them trough the signal strength)
+https://github.com/90N45-d3v/dBmonster.git
