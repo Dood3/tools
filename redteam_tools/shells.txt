@@ -9,3 +9,6 @@ https://github.com/z-Riocool/ldap_shell.git
 
 WhiteWinterWolf's php-webshell (as the name states)
 https://github.com/WhiteWinterWolf/wwwolf-php-webshell.git
+
+Hoaxshell (FUD Rev-Shell)
+https://github.com/t3l3machus/hoaxshell.git
