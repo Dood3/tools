@@ -183,3 +183,6 @@ https://github.com/RedTeamPentesting/pretender.git
 
 Smap (passive Nmap like scanner built with shodan.io)
 https://github.com/s0md3v/Smap.git
+
+VLANPWN (V-Lan hopper)
+https://github.com/in9uz/VLANPWN.git
