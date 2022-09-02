@@ -1,0 +1,2 @@
+Pivoting cheatsheet
+https://github.com/t3l3machus/pentest-pivoting.git
