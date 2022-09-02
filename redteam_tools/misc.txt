@@ -120,3 +120,7 @@ https://github.com/S3cur3Th1sSh1t/OffensiveVBA.git
 
 Concealed Code Execution (tools & tutorials)
 https://github.com/huntandhackett/concealed_code_execution.git
+
+OffensiveCSharp
+https://github.com/matterpreter/OffensiveCSharp.git
+
