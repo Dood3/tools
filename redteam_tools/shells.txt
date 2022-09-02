@@ -12,3 +12,6 @@ https://github.com/WhiteWinterWolf/wwwolf-php-webshell.git
 
 Hoaxshell (FUD Rev-Shell - Powershell)
 https://github.com/t3l3machus/hoaxshell.git
+
+iBombshell
+https://github.com/Telefonica/ibombshell.git
