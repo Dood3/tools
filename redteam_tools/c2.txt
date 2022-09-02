@@ -12,3 +12,33 @@ https://github.com/Zerx0r/Kage.git
 
 PHPSploit (fully featured C2 framework which silently persists on a webserver via polymorphic PHP oneliner)
 https://github.com/nil0x42/phpsploit.git
+
+Caldera
+https://github.com/mitre/caldera.git
+
+Covenant
+https://github.com/cobbr/Covenant.git
+
+Empire
+https://github.com/BC-SECURITY/Empire.git
+
+Koadic
+https://github.com/offsecginger/koadic
+
+Merlin
+https://github.com/Ne0nd0g/merlin.git
+
+Nuages
+https://github.com/p3nt4/Nuages.git
+
+PoshC2
+https://github.com/nettitude/PoshC2.git
+
+PowerHub
+https://github.com/AdrianVollmer/PowerHub.git
+
+Silent Trinity
+https://github.com/byt3bl33d3r/SILENTTRINITY.git
+
+TrevorC2
+https://github.com/trustedsec/trevorc2.git
