@@ -69,3 +69,9 @@ https://github.com/pwn1sher/frostbyte.git
 
 ExfilKit (Data exfiltration utility for testing detection capabilities)
 https://github.com/tasooshi/exfilkit.git
+
+DefenderCheck
+https://github.com/matterpreter/DefenderCheck.git
+
+Shapeshifter
+https://github.com/matterpreter/SHAPESHIFTER.git
