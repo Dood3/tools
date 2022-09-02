@@ -170,3 +170,6 @@ https://github.com/laluka/bypass-url-parser.git
 
 Shellfire ( exploitation shell which focuses on exploiting LFI, RFI, and command injection)
 https://github.com/unix-ninja/shellfire.git
+
+Toxxsin (automates the process of exploiting Cross-Site Scripting)
+https://github.com/t3l3machus/toxssin.git
