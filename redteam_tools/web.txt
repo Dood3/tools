@@ -135,6 +135,9 @@ https://github.com/nicholasaleks/CrackQL.git
 Request Smuggler (Http request smuggling vulnerability scanner - Rust)
 https://github.com/Sh1Yo/request_smuggler.git
 
+GraphCrawler (GraphQL automated testing tookit)
+https://github.com/gsmith257-cyber/GraphCrawler.git
+
 GitBleed (extracting data from mirrorred git repositories)
 https://github.com/nightwatchcybersecurity/gitbleed_tools.git
 
