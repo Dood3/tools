@@ -126,3 +126,6 @@ https://github.com/matterpreter/OffensiveCSharp.git
 
 BeatRev (POC to enable malware to "key" itself to a particular victim)
 https://github.com/Octoberfest7/BeatRev.git
+
+Nim-RunPE (Nim implementation of RunPE in memory)
+https://github.com/S3cur3Th1sSh1t/Nim-RunPE.git
