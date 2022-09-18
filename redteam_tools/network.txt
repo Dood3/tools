@@ -186,3 +186,6 @@ https://github.com/s0md3v/Smap.git
 
 VLANPWN (V-Lan hopper)
 https://github.com/in9uz/VLANPWN.git
+
+Coercer (coerce a Windows server to authenticate on an arbitrary machine)
+https://github.com/p0dalirius/Coercer.git
