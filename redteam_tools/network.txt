@@ -189,3 +189,6 @@ https://github.com/in9uz/VLANPWN.git
 
 Coercer (coerce a Windows server to authenticate on an arbitrary machine)
 https://github.com/p0dalirius/Coercer.git
+
+GoHide (tunnel port to port traffic via an obfuscated channel with AES-GCM encryption)
+https://github.com/Potato-Industries/gohide.git
