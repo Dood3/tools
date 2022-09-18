@@ -124,3 +124,5 @@ https://github.com/huntandhackett/concealed_code_execution.git
 OffensiveCSharp
 https://github.com/matterpreter/OffensiveCSharp.git
 
+BeatRev (self deleting dropper)
+https://github.com/Octoberfest7/BeatRev.git
