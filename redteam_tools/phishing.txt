@@ -66,3 +66,6 @@ https://github.com/micro-joan/Zphisher-GUI-Back_office.git
 
 ForceAdmin (create infinate UAC pop-ups until the user allows the program to be ran)
 https://github.com/catzsec/ForceAdmin.git
+
+XLL_Phishing (maldoc creation in form of .xll)
+https://github.com/Octoberfest7/XLL_Phishing.git
