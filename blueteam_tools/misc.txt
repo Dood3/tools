@@ -78,3 +78,6 @@ https://github.com/korc/PR-DNSd.git
 
 RPCMon (monitor RPCs)
 https://github.com/cyberark/RPCMon.git
+
+PersistenceSniper (hunt for persistences implanted in Windows machines)
+https://github.com/last-byte/PersistenceSniper.git
