@@ -179,3 +179,6 @@ https://github.com/t3l3machus/toxssin.git
 
 ApacheTomcatScanner (as the name states)
 https://github.com/p0dalirius/ApacheTomcatScanner.git
+
+AORT (All in One Recon Tool)
+https://github.com/D3Ext/AORT.git
