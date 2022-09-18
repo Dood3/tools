@@ -124,5 +124,5 @@ https://github.com/huntandhackett/concealed_code_execution.git
 OffensiveCSharp
 https://github.com/matterpreter/OffensiveCSharp.git
 
-BeatRev (self deleting dropper)
+BeatRev (POC to enable malware to "key" itself to a particular victim)
 https://github.com/Octoberfest7/BeatRev.git
