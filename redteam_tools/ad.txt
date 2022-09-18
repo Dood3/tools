@@ -9,3 +9,6 @@ https://github.com/layer8secure/SilentHound.git
 
 Aced (parse and resolve a single targeted Active Directory principal's DACL)
 https://github.com/garrettfoster13/aced.git
+
+noPac (exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user)
+https://github.com/Ridter/noPac.git
