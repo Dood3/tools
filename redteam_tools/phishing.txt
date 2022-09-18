@@ -63,3 +63,6 @@ https://github.com/htr-tech/zphisher.git
 
 Zphisher-GUI-Back_office (GUI for ZPhisher)
 https://github.com/micro-joan/Zphisher-GUI-Back_office.git
+
+ForceAdmin (create infinate UAC pop-ups until the user allows the program to be ran)
+https://github.com/catzsec/ForceAdmin.git
