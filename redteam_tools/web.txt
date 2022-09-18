@@ -173,3 +173,6 @@ https://github.com/unix-ninja/shellfire.git
 
 Toxxsin (automates the process of exploiting Cross-Site Scripting)
 https://github.com/t3l3machus/toxssin.git
+
+ApacheTomcatScanner (as the name states)
+https://github.com/p0dalirius/ApacheTomcatScanner.git
