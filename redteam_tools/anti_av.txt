@@ -75,3 +75,6 @@ https://github.com/matterpreter/DefenderCheck.git
 
 Shapeshifter
 https://github.com/matterpreter/SHAPESHIFTER.git
+
+DeathSleep (terminate the current thread and restore it before resuming execution)
+https://github.com/janoglezcampos/DeathSleep.git
