@@ -63,3 +63,6 @@ https://github.com/90N45-d3v/dBmonster.git
 
 Autodeauth (as the name states)
 https://github.com/Drew-Alleman/autodeauth.git
+
+Pinecone (WLAN networks auditing tool - msfconsole like)
+https://github.com/pinecone-wifi/pinecone.git
