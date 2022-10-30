@@ -84,3 +84,6 @@ https://github.com/mgeeky/ProtectMyTooling.git
 
 Mangle (avoid EDRs)
 https://github.com/optiv/Mangle.git
+
+FUD-UUID-Shellcode (shellcode injection using UUIDs)
+https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode.git
