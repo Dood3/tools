@@ -185,3 +185,6 @@ https://github.com/D3Ext/AORT.git
 
 jSubFinder (subdomain & js file finder)
 https://github.com/ThreatUnkown/jsubfinder.git
+
+xnLinkFinder (web crawler)
+https://github.com/xnl-h4ck3r/xnLinkFinder.git
