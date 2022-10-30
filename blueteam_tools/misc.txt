@@ -84,3 +84,6 @@ https://github.com/last-byte/PersistenceSniper.git
 
 WHIDS (OpenSource EDR)
 https://github.com/0xrawsec/whids.git
+
+Matano (security lake platform for AWS)
+https://github.com/matanolabs/matano.git
