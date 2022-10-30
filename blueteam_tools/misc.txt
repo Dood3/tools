@@ -81,3 +81,6 @@ https://github.com/cyberark/RPCMon.git
 
 PersistenceSniper (hunt for persistences implanted in Windows machines)
 https://github.com/last-byte/PersistenceSniper.git
+
+WHIDS (OpenSource EDR)
+https://github.com/0xrawsec/whids.git
