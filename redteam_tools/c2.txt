@@ -42,3 +42,6 @@ https://github.com/byt3bl33d3r/SILENTTRINITY.git
 
 TrevorC2
 https://github.com/trustedsec/trevorc2.git
+
+GodGenesis (C2 in Python3)
+https://github.com/SaumyajeetDas/GodGenesis.git
