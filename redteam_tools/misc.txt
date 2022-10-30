@@ -129,3 +129,6 @@ https://github.com/Octoberfest7/BeatRev.git
 
 Nim-RunPE (Nim implementation of RunPE in memory)
 https://github.com/S3cur3Th1sSh1t/Nim-RunPE.git
+
+PSudohash (generate mutated password lists)
+https://github.com/t3l3machus/psudohash.git
