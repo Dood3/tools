@@ -6,3 +6,6 @@ https://github.com/CoolerVoid/codecat.git
 
 Cross browser testing
 https://www.browserling.com
+
+SCodescanner
+https://github.com/agrawalsmart7/scodescanner.git
