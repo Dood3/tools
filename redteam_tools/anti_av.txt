@@ -81,3 +81,6 @@ https://github.com/janoglezcampos/DeathSleep.git
 
 ProtectMyTooling (Script that wraps around multitude of packers, protectors, obfuscators, shellcode loaders, encoders, generators)
 https://github.com/mgeeky/ProtectMyTooling.git
+
+Mangle (avoid EDRs)
+https://github.com/optiv/Mangle.git
