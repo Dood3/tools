@@ -135,3 +135,6 @@ https://github.com/t3l3machus/psudohash.git
 
 PSAsyncShell (Asynchronous TCP Reverse Shell written in pure PowerShell)
 https://github.com/JoelGMSec/PSAsyncShell.git
+
+PAX ((PAdding oracle eXploiter)
+https://github.com/liamg/pax.git
