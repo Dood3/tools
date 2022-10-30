@@ -54,3 +54,6 @@ https://github.com/doener2323/doenerium.git
 
 NimGetSyscallStub (Get fresh Syscalls from a fresh ntdll.dll copy)
 https://github.com/S3cur3Th1sSh1t/NimGetSyscallStub.git
+
+AoratosWin (remove traces of executed applications on Windows)
+https://github.com/PinoyWH1Z/AoratosWin.git
