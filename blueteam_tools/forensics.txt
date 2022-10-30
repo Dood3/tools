@@ -30,3 +30,4 @@ https://github.com/codeyourweb/fastfinder.git
 https://github.com/invictus-ir/Microsoft-365-Extractor-Suite.git
 https://github.com/itsKindred/modDetective.git
 https://github.com/ox-eye/Ox4Shell.git
+https://github.com/cea-sec/usbsas.git
