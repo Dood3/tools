@@ -12,3 +12,6 @@ https://github.com/OWASP/crAPI.git
 
 Vulnerable-Soap-Service
 https://github.com/anil-yelken/Vulnerable-Soap-Service.git
+
+Potatoe-Industries (it's raining shells)
+https://github.com/Potato-Industries?page=2&tab=repositories
