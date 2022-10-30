@@ -78,3 +78,6 @@ https://github.com/matterpreter/SHAPESHIFTER.git
 
 DeathSleep (terminate the current thread and restore it before resuming execution)
 https://github.com/janoglezcampos/DeathSleep.git
+
+ProtectMyTooling (Script that wraps around multitude of packers, protectors, obfuscators, shellcode loaders, encoders, generators)
+https://github.com/mgeeky/ProtectMyTooling.git
