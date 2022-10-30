@@ -15,3 +15,9 @@ https://github.com/anil-yelken/Vulnerable-Soap-Service.git
 
 Potatoe-Industries (it's raining shells)
 https://github.com/Potato-Industries?page=2&tab=repositories
+
+JoelGMSec
+https://github.com/JoelGMSec
+
+p0dalirius (lots of tools)
+https://github.com/p0dalirius
