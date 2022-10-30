@@ -27,3 +27,6 @@ https://github.com/optionalCTF/SSOh-No.git
 
 AWSEnum (as teh name states)
 https://github.com/bassammaged/awsEnum.git
+
+CoudFox (gain situational awareness in unfamiliar cloud environments)
+https://github.com/BishopFox/cloudfox.git
