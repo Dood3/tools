@@ -27,3 +27,6 @@ https://github.com/mfthomps/RESim.git
 
 ROPR (fast multithreaded ROP Gadget finder)
 https://github.com/Ben-Lichtman/ropr.git
+
+PengionTrace (debugging on hardware level)
+https://github.com/penguintrace/penguintrace.git
