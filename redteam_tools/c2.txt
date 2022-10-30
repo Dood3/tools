@@ -46,5 +46,5 @@ https://github.com/trustedsec/trevorc2.git
 GodGenesis (C2 in Python3)
 https://github.com/SaumyajeetDas/GodGenesis.git
 
-Monkey365 (O365 & AWS security configuration reviews)
-https://github.com/silverhack/monkey365.git
+Havoc
+https://github.com/HavocFramework/Havoc.git
