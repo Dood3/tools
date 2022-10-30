@@ -132,3 +132,6 @@ https://github.com/S3cur3Th1sSh1t/Nim-RunPE.git
 
 PSudohash (generate mutated password lists)
 https://github.com/t3l3machus/psudohash.git
+
+PSAsyncShell (Asynchronous TCP Reverse Shell written in pure PowerShell)
+https://github.com/JoelGMSec/PSAsyncShell.git
