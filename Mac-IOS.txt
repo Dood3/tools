@@ -1,0 +1,2 @@
+OSRipper (fully undetectable Backdoor generator and Crypter for M1)
+https://github.com/SubGlitch1/OSRipper.git
