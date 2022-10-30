@@ -195,3 +195,6 @@ https://github.com/Potato-Industries/gohide.git
 
 Sandman (backdoor over NTP)
 https://github.com/Idov31/Sandman.git
+
+MHDDoS (DDoS with 56 methods)
+https://github.com/MatrixTM/MHDDoS.git
