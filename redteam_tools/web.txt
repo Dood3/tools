@@ -182,3 +182,6 @@ https://github.com/p0dalirius/ApacheTomcatScanner.git
 
 AORT (All in One Recon Tool)
 https://github.com/D3Ext/AORT.git
+
+jSubFinder (subdomain & js file finder)
+https://github.com/ThreatUnkown/jsubfinder.git
