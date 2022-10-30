@@ -69,3 +69,6 @@ https://github.com/catzsec/ForceAdmin.git
 
 XLL_Phishing (maldoc creation in form of .xll)
 https://github.com/Octoberfest7/XLL_Phishing.git
+
+EvilnoVNC (Phishing Platform allowing 2FA bypass)
+https://github.com/JoelGMSec/EvilnoVNC.git
