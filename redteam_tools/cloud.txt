@@ -30,3 +30,6 @@ https://github.com/bassammaged/awsEnum.git
 
 CoudFox (gain situational awareness in unfamiliar cloud environments)
 https://github.com/BishopFox/cloudfox.git
+
+Monkey365 (O365 & AWS security configuration reviews)
+https://github.com/silverhack/monkey365.git
