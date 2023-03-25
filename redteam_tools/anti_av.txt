@@ -114,3 +114,6 @@ https://github.com/Aetsu/OffensivePipeline.git
 
 APCLoader (payload loader + evasion)
 https://github.com/NUL0x4C/APCLdr.git
+
+NimPlant (first-stage C2 implant written in Nim and Python)
+https://github.com/chvancooten/NimPlant.git
