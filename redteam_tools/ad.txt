@@ -12,3 +12,6 @@ https://github.com/garrettfoster13/aced.git
 
 noPac (exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user)
 https://github.com/Ridter/noPac.git
+
+AutoBloody (automatically exploit Active Directory privilege escalation paths shown by BloodHound)
+https://github.com/CravateRouge/autobloody.git
