@@ -194,3 +194,6 @@ https://github.com/Th0h0/autossrf.git
 
 SSTImap (based on Tplmap)
 https://github.com/vladko312/SSTImap.git
+
+Graphicator (GraphQL scraper/extractor)
+https://github.com/cybervelia/graphicator.git
