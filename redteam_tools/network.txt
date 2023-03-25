@@ -201,3 +201,6 @@ https://github.com/MatrixTM/MHDDoS.git
 
 NetLlix (emulate and test exfiltration of data over different network protocols)
 https://github.com/advanced-threat-research/NetLlix.git
+
+ExchangeFinder (find Micrsoft Exchange instance for a given domain based on the top common DNS names for Microsoft Exchange)
+https://github.com/mhaskar/ExchangeFinder.git
