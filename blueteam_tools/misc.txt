@@ -102,3 +102,6 @@ https://github.com/zeronetworks/BlueHound.git
 
 CertVerify (detect executable files (exe, dll, sys) that have been signed with untrusted or leaked code signing certificates)
 https://github.com/password123456/CertVerify.git
+
+CertWatcher (capture and track certificate transparency logs, using YAML templates)
+https://github.com/drfabiocastro/certwatcher.git
