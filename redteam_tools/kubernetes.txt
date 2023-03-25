@@ -10,3 +10,6 @@ https://github.com/openclarity/kubeclarity.git
 
 KubeAudit (audit Kubernetes clusters)
 https://github.com/Shopify/kubeaudit.git
+
+Kubeeye (inspection tool for Kubernetes)
+https://github.com/kubesphere/kubeeye.git
