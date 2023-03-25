@@ -1,2 +1,5 @@
 Diamorphine (LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and ARM64)
 https://github.com/m0nad/Diamorphine.git
+
+TripleCross (Linux eBPF rootkit)
+https://github.com/h3xduck/TripleCross.git
