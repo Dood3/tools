@@ -87,3 +87,6 @@ https://github.com/optiv/Mangle.git
 
 FUD-UUID-Shellcode (shellcode injection using UUIDs)
 https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode.git
+
+Mortar Loader (encryption and decryption of selected binary inside the memory streams)
+https://github.com/0xsp-SRD/mortar.git
