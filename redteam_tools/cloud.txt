@@ -36,3 +36,6 @@ https://github.com/silverhack/monkey365.git
 
 TeamFiltration (enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts)
 https://github.com/Flangvik/TeamFiltration.git
+
+Nuvola (security analysis on AWS with .yaml)
+https://github.com/primait/nuvola.git
