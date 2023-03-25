@@ -111,3 +111,6 @@ https://github.com/Ch0pin/AVIator.git
 
 OffensivePipeline (download and build C# tools, applying certain modifications in order to improve their evasion)
 https://github.com/Aetsu/OffensivePipeline.git
+
+APCLoader (payload loader + evasion)
+https://github.com/NUL0x4C/APCLdr.git
