@@ -90,3 +90,6 @@ https://github.com/matanolabs/matano.git
 
 PartyLoud (prevent tracking directly from your linux terminal)
 https://github.com/davideolgiati/PartyLoud.git
+
+PyWirt (Python Windows Incident Response Toolkit)
+https://github.com/anil-yelken/pywirt.git
