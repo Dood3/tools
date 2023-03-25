@@ -51,3 +51,6 @@ https://github.com/JoelGMSec/AzureGraph.git
 
 AzureHound (BloodHound data collector for Microsoft Azure)
 https://github.com/BloodHoundAD/AzureHound.git
+
+S3cret_Scanner (Hunting For Secrets Uploaded To Public S3 Buckets)
+https://github.com/Eilonh/s3crets_scanner.git
