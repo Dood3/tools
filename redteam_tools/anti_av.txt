@@ -102,3 +102,6 @@ https://github.com/Accenture/Codecepticon.git
 
 Pyramid (evade EDRs in Python in different ways)
 https://github.com/naksyn/Pyramid.git
+
+TerraLdr (payload loader)
+https://github.com/NUL0x4C/TerraLdr.git
