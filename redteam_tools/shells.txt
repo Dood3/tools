@@ -24,3 +24,6 @@ https://github.com/hosch3n/msmap.git
 
 C99Shell-PHP7
 https://github.com/PinoyWH1Z/C99Shell-PHP7.git
+
+upload_bypass (use various techniques to evade upload filters)
+https://github.com/sAjibuu/upload_bypass.git
