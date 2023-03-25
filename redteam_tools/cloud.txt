@@ -48,3 +48,6 @@ https://github.com/Gerenios/AADInternals.git
 
 AzureGraph (information gathering tool over Microsoft Graph)
 https://github.com/JoelGMSec/AzureGraph.git
+
+AzureHound (BloodHound data collector for Microsoft Azure)
+https://github.com/BloodHoundAD/AzureHound.git
