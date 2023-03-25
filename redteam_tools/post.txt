@@ -72,3 +72,6 @@ https://github.com/thomasareed/pict.git
 
 SharpImpersonation (as the name states - C#)
 https://github.com/S3cur3Th1sSh1t/SharpImpersonation.git
+
+SharpSCCM (leverage Microsoft Endpoint Configuration Manager (a.k.a. ConfigMgr) for lateral movement
+https://github.com/Mayyhem/SharpSCCM.git
