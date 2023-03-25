@@ -33,3 +33,6 @@ https://github.com/penguintrace/penguintrace.git
 
 Ofrak (binary analysis and modification platform)
 https://github.com/redballoonsecurity/ofrak.git
+
+DotDumper (automatic unpacker and logger for DotNet Framework)
+https://github.com/advanced-threat-research/DotDumper.git
