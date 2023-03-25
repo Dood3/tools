@@ -42,3 +42,6 @@ https://github.com/primait/nuvola.git
 
 PowerZure (assess and exploit resources within Microsoft’s cloud platform)
 https://github.com/hausec/PowerZure.git
+
+AADInternals (administering Azure AD and Office 365)
+https://github.com/Gerenios/AADInternals.git
