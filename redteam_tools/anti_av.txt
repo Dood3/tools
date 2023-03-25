@@ -105,3 +105,6 @@ https://github.com/naksyn/Pyramid.git
 
 TerraLdr (payload loader)
 https://github.com/NUL0x4C/TerraLdr.git
+
+AVIator (AES encryption in order to encrypt a given shellcode)
+https://github.com/Ch0pin/AVIator.git
