@@ -204,3 +204,6 @@ https://github.com/advanced-threat-research/NetLlix.git
 
 ExchangeFinder (find Micrsoft Exchange instance for a given domain based on the top common DNS names for Microsoft Exchange)
 https://github.com/mhaskar/ExchangeFinder.git
+
+DNSStager (hide and transfer your payload using DNS)
+https://github.com/mhaskar/DNSStager.git
