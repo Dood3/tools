@@ -48,3 +48,6 @@ https://github.com/SaumyajeetDas/GodGenesis.git
 
 Havoc
 https://github.com/HavocFramework/Havoc.git
+
+Anti Tanium (C2 framework and RAT written in Go)
+https://github.com/dobin/antnium.git
