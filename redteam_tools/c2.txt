@@ -54,3 +54,6 @@ https://github.com/dobin/antnium.git
 
 Octopus (open source, pre-operation C2 server based on python)
 https://github.com/mhaskar/Octopus.git
+
+GmailC2 (as the name states)
+https://github.com/machine1337/gmailc2.git
