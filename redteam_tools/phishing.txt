@@ -72,3 +72,6 @@ https://github.com/Octoberfest7/XLL_Phishing.git
 
 EvilnoVNC (Phishing Platform allowing 2FA bypass)
 https://github.com/JoelGMSec/EvilnoVNC.git
+
+EvilGoPhish (Combination of evilginx2 and GoPhish)
+https://github.com/fin3ss3g0d/evilgophish.git
