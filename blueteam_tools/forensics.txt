@@ -18,6 +18,7 @@ https://github.com/cado-security/rip_raw.git
 https://github.com/daddycocoaman/dumpscan.git
 https://github.com/thomasareed/pict.git
 https://github.com/odedshimon/BruteShark.git
+https://github.com/Gui774ume/krie.git
 
 => File Recovery
 https://github.com/PabloLec/RecoverPy.git (Recover overwritten or deleted data)
