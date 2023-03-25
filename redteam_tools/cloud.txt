@@ -39,3 +39,6 @@ https://github.com/Flangvik/TeamFiltration.git
 
 Nuvola (security analysis on AWS with .yaml)
 https://github.com/primait/nuvola.git
+
+PowerZure (assess and exploit resources within Microsoft’s cloud platform)
+https://github.com/hausec/PowerZure.git
