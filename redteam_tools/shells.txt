@@ -21,3 +21,6 @@ https://github.com/NHAS/reverse_ssh.git
 
 MSMap (Memory WebShell Generator)
 https://github.com/hosch3n/msmap.git
+
+C99Shell-PHP7
+https://github.com/PinoyWH1Z/C99Shell-PHP7.git
