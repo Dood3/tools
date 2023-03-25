@@ -117,3 +117,6 @@ https://github.com/NUL0x4C/APCLdr.git
 
 NimPlant (first-stage C2 implant written in Nim and Python)
 https://github.com/chvancooten/NimPlant.git
+
+Invoke-PSObfuscation
+https://github.com/gh0x0st/Invoke-PSObfuscation.git
