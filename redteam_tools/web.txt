@@ -188,3 +188,6 @@ https://github.com/ThreatUnkown/jsubfinder.git
 
 xnLinkFinder (web crawler)
 https://github.com/xnl-h4ck3r/xnLinkFinder.git
+
+autossrf (SSRF)
+https://github.com/Th0h0/autossrf.git
