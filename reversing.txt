@@ -30,3 +30,6 @@ https://github.com/Ben-Lichtman/ropr.git
 
 PengionTrace (debugging on hardware level)
 https://github.com/penguintrace/penguintrace.git
+
+Ofrak (binary analysis and modification platform)
+https://github.com/redballoonsecurity/ofrak.git
