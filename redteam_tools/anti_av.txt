@@ -90,3 +90,6 @@ https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode.git
 
 Mortar Loader (encryption and decryption of selected binary inside the memory streams)
 https://github.com/0xsp-SRD/mortar.git
+
+ConfuserEx (open-source protector for .NET applications)
+https://github.com/mkaring/ConfuserEx.git
