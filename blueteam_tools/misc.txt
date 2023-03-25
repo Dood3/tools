@@ -99,3 +99,6 @@ https://github.com/Qazeer/FarsightAD.git
 
 BlueHound (pinpoint security issues)
 https://github.com/zeronetworks/BlueHound.git
+
+CertVerify (detect executable files (exe, dll, sys) that have been signed with untrusted or leaked code signing certificates)
+https://github.com/password123456/CertVerify.git
