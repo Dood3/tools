@@ -15,3 +15,6 @@ https://github.com/p1ngul1n0/blackbird.git
 
 OctoSuite (gathering open-source intelligence on GitHub users, repositories and organizations)
 https://github.com/bellingcat/octosuite.git
+
+Tracgram (use Instagram location features to track an account)
+https://github.com/initzerCreations/Tracgram.git
