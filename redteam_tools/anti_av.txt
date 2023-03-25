@@ -108,3 +108,6 @@ https://github.com/NUL0x4C/TerraLdr.git
 
 AVIator (AES encryption in order to encrypt a given shellcode)
 https://github.com/Ch0pin/AVIator.git
+
+OffensivePipeline (download and build C# tools, applying certain modifications in order to improve their evasion)
+https://github.com/Aetsu/OffensivePipeline.git
