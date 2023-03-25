@@ -57,3 +57,6 @@ https://github.com/S3cur3Th1sSh1t/NimGetSyscallStub.git
 
 AoratosWin (remove traces of executed applications on Windows)
 https://github.com/PinoyWH1Z/AoratosWin.git
+
+PEzor (PEPacker)
+https://github.com/phra/PEzor.git
