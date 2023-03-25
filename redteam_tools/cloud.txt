@@ -45,3 +45,6 @@ https://github.com/hausec/PowerZure.git
 
 AADInternals (administering Azure AD and Office 365)
 https://github.com/Gerenios/AADInternals.git
+
+AzureGraph (information gathering tool over Microsoft Graph)
+https://github.com/JoelGMSec/AzureGraph.git
