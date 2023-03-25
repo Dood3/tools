@@ -15,3 +15,6 @@ https://github.com/t3l3machus/hoaxshell.git
 
 iBombshell
 https://github.com/Telefonica/ibombshell.git
+
+reverse_SSH (use SSH for reverse shells)
+https://github.com/NHAS/reverse_ssh.git
