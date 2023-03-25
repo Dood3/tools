@@ -33,3 +33,6 @@ https://github.com/BishopFox/cloudfox.git
 
 Monkey365 (O365 & AWS security configuration reviews)
 https://github.com/silverhack/monkey365.git
+
+TeamFiltration (enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts)
+https://github.com/Flangvik/TeamFiltration.git
