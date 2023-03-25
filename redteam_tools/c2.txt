@@ -51,3 +51,6 @@ https://github.com/HavocFramework/Havoc.git
 
 Anti Tanium (C2 framework and RAT written in Go)
 https://github.com/dobin/antnium.git
+
+Octopus (open source, pre-operation C2 server based on python)
+https://github.com/mhaskar/Octopus.git
