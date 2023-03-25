@@ -198,3 +198,6 @@ https://github.com/Idov31/Sandman.git
 
 MHDDoS (DDoS with 56 methods)
 https://github.com/MatrixTM/MHDDoS.git
+
+NetLlix (emulate and test exfiltration of data over different network protocols)
+https://github.com/advanced-threat-research/NetLlix.git
