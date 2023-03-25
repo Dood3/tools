@@ -12,3 +12,6 @@ https://github.com/rly0nheart/osinteye.git
 
 Blackbird (search for accounts by username across 116 sites)
 https://github.com/p1ngul1n0/blackbird.git
+
+OctoSuite (gathering open-source intelligence on GitHub users, repositories and organizations)
+https://github.com/bellingcat/octosuite.git
