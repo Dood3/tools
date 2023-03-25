@@ -81,3 +81,6 @@ https://github.com/t3l3machus/Villain.git
 
 PowerHuntShares (automatically inventory, analyze, and report excessive privilege assigned to SMB shares on Active Directory domain joined computers)
 https://github.com/NetSPI/PowerHuntShares.git
+
+Suborner (create invisible local accounts after successful authenication)
+https://github.com/r4wd3r/Suborner.git
