@@ -96,3 +96,6 @@ https://github.com/anil-yelken/pywirt.git
 
 FarsightAD (discover potential persistence mechanisms put in place by a threat actor)
 https://github.com/Qazeer/FarsightAD.git
+
+BlueHound (pinpoint security issues)
+https://github.com/zeronetworks/BlueHound.git
