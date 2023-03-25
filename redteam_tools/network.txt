@@ -207,3 +207,6 @@ https://github.com/mhaskar/ExchangeFinder.git
 
 DNSStager (hide and transfer your payload using DNS)
 https://github.com/mhaskar/DNSStager.git
+
+Invoke-Transfer (data-exfil in Powershell)
+https://github.com/JoelGMSec/Invoke-Transfer.git
