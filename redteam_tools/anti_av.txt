@@ -99,3 +99,6 @@ https://github.com/machine1337/pycrypt.git
 
 Codeception (obfuscate C#, VBA/VB6 (macros), and PowerShell source code)
 https://github.com/Accenture/Codecepticon.git
+
+Pyramid (evade EDRs in Python in different ways)
+https://github.com/naksyn/Pyramid.git
