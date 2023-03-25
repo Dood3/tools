@@ -93,3 +93,6 @@ https://github.com/0xsp-SRD/mortar.git
 
 ConfuserEx (open-source protector for .NET applications)
 https://github.com/mkaring/ConfuserEx.git
+
+PyCrypt (Python based crypter)
+https://github.com/machine1337/pycrypt.git
