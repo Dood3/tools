@@ -126,3 +126,9 @@ https://github.com/klezVirus/SilentMoonwalk.git
 
 EntropyReducer (as the name states)
 https://github.com/Maldev-Academy/EntropyReducer.git
+
+Acheron (add indirect syscall capabilities)
+https://github.com/f1zm0/acheron.git
+
+Hades (loader with AV/EDR bypass techniques)
+https://github.com/f1zm0/hades.git
