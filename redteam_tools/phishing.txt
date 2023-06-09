@@ -81,3 +81,6 @@ https://github.com/spyboy-productions/r4ven.git
 
 SquarePhish (combining the OAuth Device code authentication flow and QR codes)
 https://github.com/secureworks/squarephish.git
+
+TLDHunt (TLD availability checker)
+https://github.com/yuyudhn/TLDHunt.git
