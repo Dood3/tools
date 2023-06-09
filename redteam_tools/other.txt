@@ -60,3 +60,6 @@ https://github.com/PinoyWH1Z/AoratosWin.git
 
 PEzor (PEPacker)
 https://github.com/phra/PEzor.git
+
+PassMute (password mutation based on rules)
+https://github.com/HITH-Hackerinthehouse/PassMute.git
