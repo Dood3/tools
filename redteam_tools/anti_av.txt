@@ -123,3 +123,6 @@ https://github.com/gh0x0st/Invoke-PSObfuscation.git
 
 SilentMoonwalk (fully dynamic Call Stack Spoofer)
 https://github.com/klezVirus/SilentMoonwalk.git
+
+EntropyReducer (as the name states)
+https://github.com/Maldev-Academy/EntropyReducer.git
