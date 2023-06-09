@@ -3,3 +3,6 @@ https://github.com/m0nad/Diamorphine.git
 
 TripleCross (Linux eBPF rootkit)
 https://github.com/h3xduck/TripleCross.git
+
+Nidhogg (Win10/Win11 rootkit)
+https://github.com/Idov31/Nidhogg.git
