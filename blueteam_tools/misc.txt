@@ -105,3 +105,6 @@ https://github.com/password123456/CertVerify.git
 
 CertWatcher (capture and track certificate transparency logs, using YAML templates)
 https://github.com/drfabiocastro/certwatcher.git
+
+Domain-Protect (prevent subdomain takeover)
+https://github.com/domain-protect/domain-protect.git
