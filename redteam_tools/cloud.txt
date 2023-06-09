@@ -57,3 +57,9 @@ https://github.com/Eilonh/s3crets_scanner.git
 
 Reportly (AzureAD user activity report tool)
 https://github.com/sap8899/reportly.git
+
+Azure-Access Permissions (as the name states)
+https://github.com/csandker/Azure-AccessPermissions.git
+
+MAAD-AF (testing security of Microsoft 365 & Azure AD environments through adversary emulation)
+https://github.com/vectra-ai-research/MAAD-AF.git
