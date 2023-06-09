@@ -15,3 +15,6 @@ https://github.com/Ridter/noPac.git
 
 AutoBloody (automatically exploit Active Directory privilege escalation paths shown by BloodHound)
 https://github.com/CravateRouge/autobloody.git
+
+ShadowSpray (search for long forgotten GenericWrite/GenericAll DACLs)
+https://github.com/Dec0ne/ShadowSpray.git
