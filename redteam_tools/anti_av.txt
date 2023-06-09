@@ -132,3 +132,6 @@ https://github.com/f1zm0/acheron.git
 
 Hades (loader with AV/EDR bypass techniques)
 https://github.com/f1zm0/hades.git
+
+AtomLdr (DLL loader with bypass features)
+https://github.com/NUL0x4C/AtomLdr.git
