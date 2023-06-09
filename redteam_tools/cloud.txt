@@ -54,3 +54,6 @@ https://github.com/BloodHoundAD/AzureHound.git
 
 S3cret_Scanner (Hunting For Secrets Uploaded To Public S3 Buckets)
 https://github.com/Eilonh/s3crets_scanner.git
+
+Reportly (AzureAD user activity report tool)
+https://github.com/sap8899/reportly.git
