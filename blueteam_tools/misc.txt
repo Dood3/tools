@@ -108,3 +108,6 @@ https://github.com/drfabiocastro/certwatcher.git
 
 Domain-Protect (prevent subdomain takeover)
 https://github.com/domain-protect/domain-protect.git
+
+Linux Security and Monitoring Scripts (as the name states)
+https://github.com/sqall01/LSMS.git
