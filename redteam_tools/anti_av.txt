@@ -138,3 +138,9 @@ https://github.com/NUL0x4C/AtomLdr.git
 
 Killer (EDR evasion)
 https://github.com/0xHossam/Killer.git
+
+Chimera unlea$hed (dll sideloading)
+https://github.com/georgesotiriadis/Chimera.git
+
+NixImports (.NET malware loader)
+https://github.com/dr4k0nia/NixImports.git
