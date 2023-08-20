@@ -69,3 +69,9 @@ https://github.com/zblurx/certsync.git
 
 msLDAPDump (LDAP enumeration tool implemented in Python3)
 https://github.com/dievus/msLDAPDump.git
+
+KRBUACBypass (abusing Kerberos tickets to achieve UAC bypass)
+https://github.com/wh0amitz/KRBUACBypass.git
+
+Bropper (Blind ROP)
+https://github.com/Hakumarachi/Bropper.git
