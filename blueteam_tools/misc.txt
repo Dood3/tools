@@ -111,3 +111,9 @@ https://github.com/domain-protect/domain-protect.git
 
 Linux Security and Monitoring Scripts (as the name states)
 https://github.com/sqall01/LSMS.git
+
+Bryobio (Pcap File Analysis)
+https://github.com/emrekybs/Bryobio.git
+
+Trawler (discover potential indicators of compromise on Windows hosts)
+https://github.com/joeavanzato/Trawler.git
