@@ -197,3 +197,9 @@ https://github.com/vladko312/SSTImap.git
 
 Graphicator (GraphQL scraper/extractor)
 https://github.com/cybervelia/graphicator.git
+
+LFI-FINDER (as the name states)
+https://github.com/capture0x/LFI-FINDER.git
+
+Upload_Bypass (as the name states)
+https://github.com/sAjibuu/Upload_Bypass.git
