@@ -63,3 +63,9 @@ https://github.com/phra/PEzor.git
 
 PassMute (password mutation based on rules)
 https://github.com/HITH-Hackerinthehouse/PassMute.git
+
+Certsync (dump NTDS remotely without DRSUAPI)
+https://github.com/zblurx/certsync.git
+
+msLDAPDump (LDAP enumeration tool implemented in Python3)
+https://github.com/dievus/msLDAPDump.git
