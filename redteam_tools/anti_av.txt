@@ -135,3 +135,6 @@ https://github.com/f1zm0/hades.git
 
 AtomLdr (DLL loader with bypass features)
 https://github.com/NUL0x4C/AtomLdr.git
+
+Killer (EDR evasion)
+https://github.com/0xHossam/Killer.git
