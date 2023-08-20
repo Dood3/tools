@@ -117,3 +117,6 @@ https://github.com/emrekybs/Bryobio.git
 
 Trawler (discover potential indicators of compromise on Windows hosts)
 https://github.com/joeavanzato/Trawler.git
+
+Sysreptor (security reporting solution)
+https://github.com/Syslifters/sysreptor.git
