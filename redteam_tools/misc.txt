@@ -138,3 +138,9 @@ https://github.com/JoelGMSec/PSAsyncShell.git
 
 PAX ((PAdding oracle eXploiter)
 https://github.com/liamg/pax.git
+
+MSSqlPwner (seamlessly interact with MSSQL servers based on Impacket)
+https://github.com/ScorpionesLabs/MSSqlPwner.git
+
+EvilQR (QRLJacking attack)
+https://github.com/kgretzky/evilqr.git
