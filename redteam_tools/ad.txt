@@ -18,3 +18,6 @@ https://github.com/CravateRouge/autobloody.git
 
 ShadowSpray (search for long forgotten GenericWrite/GenericAll DACLs)
 https://github.com/Dec0ne/ShadowSpray.git
+
+AD_Enumeration_Hunt (AD Pentesting Toolkit)
+https://github.com/alperenugurlu/AD_Enumeration_Hunt.git
