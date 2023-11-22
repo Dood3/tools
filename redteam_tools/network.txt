@@ -216,3 +216,6 @@ https://github.com/micro-joan/DNSrecon-gui.git
 
 SkyHook (smuggle files into and out of networks defended by IDS)
 https://github.com/blackhillsinfosec/skyhook.git
+
+Qu1ckdr0p2 (host payloads and post-exploitation bins over HTTP or HTTPS)
+https://github.com/byinarie/qu1ckdr0p2.git
