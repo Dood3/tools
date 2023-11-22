@@ -90,3 +90,12 @@ https://github.com/ItsCyberAli/PowerMeUp.git
 
 GodPotato (another potato)
 https://github.com/BeichenDream/GodPotato.git
+
+ElevationStation (Stealing and Duplicating SYSTEM tokens)
+https://github.com/g3tsyst3m/elevationstation.git
+
+S4Utomato (Escalate Service Account To LocalSystem via Kerberos)
+https://github.com/wh0amitz/S4UTomato.git
+
+KnockKnock ( validate potential usernames by querying OneDrive and/or Microsoft Teams passively)
+https://github.com/optiv/KnockKnock.git
