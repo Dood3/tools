@@ -27,3 +27,6 @@ https://github.com/PinoyWH1Z/C99Shell-PHP7.git
 
 upload_bypass (use various techniques to evade upload filters)
 https://github.com/sAjibuu/upload_bypass.git
+
+ElectronShell (covert Remote Access Trojan (RAT) tool)
+https://github.com/djerryz/electron_shell.git
