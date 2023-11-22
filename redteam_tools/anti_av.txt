@@ -144,3 +144,15 @@ https://github.com/georgesotiriadis/Chimera.git
 
 NixImports (.NET malware loader)
 https://github.com/dr4k0nia/NixImports.git
+
+LightsOut (evade AV & EDR with crypted dll)
+https://github.com/icyguider/LightsOut.git
+
+DVenom (encryption wrapper for shellcode)
+https://github.com/Zerx0r/dvenom.git
+
+RecycledInjector (Shellcode injector)
+https://github.com/florylsk/RecycledInjector.git
+
+ModuleShifting (as the name states)
+https://github.com/naksyn/ModuleShifting.git
