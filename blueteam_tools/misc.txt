@@ -118,5 +118,8 @@ https://github.com/emrekybs/Bryobio.git
 Trawler (discover potential indicators of compromise on Windows hosts)
 https://github.com/joeavanzato/Trawler.git
 
+NetworkAssessment (analyze pcap files)
+https://github.com/HalilDeniz/NetworkAssessment.git
+
 Sysreptor (security reporting solution)
 https://github.com/Syslifters/sysreptor.git
