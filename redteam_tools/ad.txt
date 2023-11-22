@@ -21,3 +21,6 @@ https://github.com/Dec0ne/ShadowSpray.git
 
 AD_Enumeration_Hunt (AD Pentesting Toolkit)
 https://github.com/alperenugurlu/AD_Enumeration_Hunt.git
+
+ADCSKiller (discover and exploit Active Directory Certificate Services (ADCS))
+https://github.com/grimlockx/ADCSKiller.git
