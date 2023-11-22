@@ -203,3 +203,6 @@ https://github.com/capture0x/LFI-FINDER.git
 
 Upload_Bypass (as the name states)
 https://github.com/sAjibuu/Upload_Bypass.git
+
+ChromeCookieStealer (as the name states)
+https://github.com/magisterquis/chromecookiestealer.git
