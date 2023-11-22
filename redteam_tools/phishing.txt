@@ -84,3 +84,9 @@ https://github.com/secureworks/squarephish.git
 
 TLDHunt (TLD availability checker)
 https://github.com/yuyudhn/TLDHunt.git
+
+Spoofy (check if a list of domains can be spoofed based on SPF and DMARC)
+https://github.com/MattKeeley/Spoofy.git
+
+Facading (URL masking tool)
+https://github.com/spyboy-productions/Facad1ng.git
