@@ -75,3 +75,6 @@ https://github.com/wh0amitz/KRBUACBypass.git
 
 Bropper (Blind ROP)
 https://github.com/Hakumarachi/Bropper.git
+
+MSSqlPwner (pwn MSSQL servers (impacket))
+https://github.com/ScorpionesLabs/MSSqlPwner.git
