@@ -99,3 +99,6 @@ https://github.com/wh0amitz/S4UTomato.git
 
 KnockKnock ( validate potential usernames by querying OneDrive and/or Microsoft Teams passively)
 https://github.com/optiv/KnockKnock.git
+
+WMIExec (as the name states)
+https://github.com/WKL-Sec/WMIExec.git
