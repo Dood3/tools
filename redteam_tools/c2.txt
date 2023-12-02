@@ -6,6 +6,7 @@ https://github.com/SharpC2/SharpC2.git
 
 Mythic
 https://github.com/its-a-feature/Mythic.git
+https://github.com/MythicAgents/thanatos.git (Agents for Mythic written in Rust)
 
 Kage (frontend for MSF)
 https://github.com/Zerx0r/Kage.git
