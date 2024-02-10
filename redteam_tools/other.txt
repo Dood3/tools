@@ -78,3 +78,6 @@ https://github.com/Hakumarachi/Bropper.git
 
 MSSqlPwner (pwn MSSQL servers (impacket))
 https://github.com/ScorpionesLabs/MSSqlPwner.git
+
+PipeViewer (GUI for finding Windows Named Pipes)
+https://github.com/cyberark/PipeViewer.git
