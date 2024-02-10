@@ -69,3 +69,6 @@ https://github.com/pinecone-wifi/pinecone.git
 
 WiFi-password-stealer (as the name states)
 https://github.com/AleksaMCode/WiFi-password-stealer.git
+
+PMKID WPA2 Cracker (recover the pre-shared key of WPA2 WiFi)
+https://github.com/n0mi1k/pmkidcracker.git
