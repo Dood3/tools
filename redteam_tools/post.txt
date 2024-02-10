@@ -114,3 +114,6 @@ https://github.com/eeriedusk/nysm.git
 
 PPLBlade (process dumper with benefits)
 https://github.com/tastypepperoni/PPLBlade.git
+
+Stompy (timestomping)
+https://github.com/ZephrFish/Stompy.git
