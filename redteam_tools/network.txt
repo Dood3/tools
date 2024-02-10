@@ -225,3 +225,6 @@ https://github.com/spyboy-productions/CloakQuest3r.git
 
 PacketSpy (network packet sniffing tool)
 https://github.com/HalilDeniz/PacketSpy.git
+
+MacMaster (manipulate Mac addresses on multiple systems)
+https://github.com/HalilDeniz/MacMaster.git
