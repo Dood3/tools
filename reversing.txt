@@ -42,3 +42,6 @@ https://github.com/advanced-threat-research/DotDumper.git
 
 Bread (reverseing BIOS)
 https://github.com/Theldus/bread.git
+
+Linpmem (extended Linux memory dumping)
+https://github.com/Velocidex/Linpmem.git
