@@ -105,3 +105,6 @@ https://github.com/WKL-Sec/WMIExec.git
 
 NimExec (fileless remote command execution - NTLM)
 https://github.com/frkngksl/NimExec.git
+
+CertStealer (stealing and importing certificates in the Windows certificate store without touching disk)
+https://github.com/TheWover/CertStealer.git
