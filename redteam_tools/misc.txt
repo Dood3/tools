@@ -153,3 +153,6 @@ https://github.com/Tw1sm/PySQLRecon.git
 
 ProcessStomping (writing a shellcode payload on a targeted section)
 https://github.com/naksyn/ProcessStomping.git
+
+EvtMute (offensive yara)
+https://github.com/bats3c/EvtMute.git
