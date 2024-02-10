@@ -111,3 +111,6 @@ https://github.com/TheWover/CertStealer.git
 
 Nysm (stealth post-exploitation container)
 https://github.com/eeriedusk/nysm.git
+
+PPLBlade (process dumper with benefits)
+https://github.com/tastypepperoni/PPLBlade.git
