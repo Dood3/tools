@@ -219,3 +219,6 @@ https://github.com/blackhillsinfosec/skyhook.git
 
 Qu1ckdr0p2 (host payloads and post-exploitation bins over HTTP or HTTPS)
 https://github.com/byinarie/qu1ckdr0p2.git
+
+CloakQuest3r (uncover IPs behind Cloudflare)
+https://github.com/spyboy-productions/CloakQuest3r.git
