@@ -72,3 +72,6 @@ https://github.com/AleksaMCode/WiFi-password-stealer.git
 
 PMKID WPA2 Cracker (recover the pre-shared key of WPA2 WiFi)
 https://github.com/n0mi1k/pmkidcracker.git
+
+Airograph (basically aircrack-ng in Rust)
+https://github.com/martin-olivier/airgorah.git
