@@ -218,3 +218,6 @@ https://github.com/g0ldencybersec/EasyEASM.git
 
 Route-Detect (find authentication (authn) and authorization (authz) security bugs in web application routes)
 https://github.com/mschwager/route-detect.git
+
+Porch-Pirate (uncover Postman secrets)
+https://github.com/MandConsultingGroup/porch-pirate.git
