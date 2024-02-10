@@ -63,3 +63,6 @@ https://github.com/csandker/Azure-AccessPermissions.git
 
 MAAD-AF (testing security of Microsoft 365 & Azure AD environments through adversary emulation)
 https://github.com/vectra-ai-research/MAAD-AF.git
+
+CloudRecon (finding assets from certificates)
+https://github.com/g0ldencybersec/CloudRecon.git
