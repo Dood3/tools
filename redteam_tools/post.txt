@@ -108,3 +108,6 @@ https://github.com/frkngksl/NimExec.git
 
 CertStealer (stealing and importing certificates in the Windows certificate store without touching disk)
 https://github.com/TheWover/CertStealer.git
+
+Nysm (stealth post-exploitation container)
+https://github.com/eeriedusk/nysm.git
