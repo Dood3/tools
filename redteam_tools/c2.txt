@@ -66,3 +66,6 @@ https://github.com/itaymigdal/Nimbo-C2.git
 
 MaccaroniC2 (C2 using AsyncSSH)
 https://github.com/CalfCrusher/MaccaroniC2.git
+
+Villain (HoaxShell-based reverse shells)
+https://github.com/t3l3machus/Villain.git
