@@ -156,3 +156,6 @@ https://github.com/florylsk/RecycledInjector.git
 
 ModuleShifting (as the name states)
 https://github.com/naksyn/ModuleShifting.git
+
+Alladin (payload generation tool - .NET)
+https://github.com/nettitude/Aladdin.git
