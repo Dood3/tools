@@ -215,3 +215,6 @@ https://github.com/h4r5h1t/webcopilot.git
 
 EasyEASM (zero-dollar attack surface management tool)
 https://github.com/g0ldencybersec/EasyEASM.git
+
+Route-Detect (find authentication (authn) and authorization (authz) security bugs in web application routes)
+https://github.com/mschwager/route-detect.git
