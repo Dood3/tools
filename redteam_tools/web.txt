@@ -209,3 +209,6 @@ https://github.com/magisterquis/chromecookiestealer.git
 
 CLZero (fuzzing for HTTP/1.1 CL.0 Request Smuggling Attack Vectors)
 https://github.com/Moopinger/CLZero.git
+
+WebCopilot ( automation tool designed to enumerate subdomains)
+https://github.com/h4r5h1t/webcopilot.git
