@@ -21,3 +21,6 @@ https://github.com/initzerCreations/Tracgram.git
 
 Holehe OSINT (Email to Registered Accounts)
 https://github.com/megadose/holehe.git
+
+EmploLeaks (gather information about employees of a company)
+https://github.com/infobyte/emploleaks.git
