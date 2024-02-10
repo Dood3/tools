@@ -212,3 +212,6 @@ https://github.com/Moopinger/CLZero.git
 
 WebCopilot ( automation tool designed to enumerate subdomains)
 https://github.com/h4r5h1t/webcopilot.git
+
+EasyEASM (zero-dollar attack surface management tool)
+https://github.com/g0ldencybersec/EasyEASM.git
