@@ -147,3 +147,6 @@ https://github.com/ScorpionesLabs/MSSqlPwner.git
 
 EvilQR (QRLJacking attack)
 https://github.com/kgretzky/evilqr.git
+
+SQLRecon (as the name states)
+https://github.com/Tw1sm/PySQLRecon.git
