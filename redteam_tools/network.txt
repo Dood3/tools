@@ -222,3 +222,6 @@ https://github.com/byinarie/qu1ckdr0p2.git
 
 CloakQuest3r (uncover IPs behind Cloudflare)
 https://github.com/spyboy-productions/CloakQuest3r.git
+
+PacketSpy (network packet sniffing tool)
+https://github.com/HalilDeniz/PacketSpy.git
