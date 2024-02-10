@@ -126,3 +126,6 @@ https://github.com/Syslifters/sysreptor.git
 
 AntiSquat (detect typosquatting and phishing domains with AI - NLP)
 https://github.com/redhuntlabs/antisquat.git
+
+PurpleKeep (retest existing detection rules)
+https://github.com/Retrospected/PurpleKeep.git
