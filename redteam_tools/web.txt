@@ -206,3 +206,6 @@ https://github.com/sAjibuu/Upload_Bypass.git
 
 ChromeCookieStealer (as the name states)
 https://github.com/magisterquis/chromecookiestealer.git
+
+CLZero (fuzzing for HTTP/1.1 CL.0 Request Smuggling Attack Vectors)
+https://github.com/Moopinger/CLZero.git
