@@ -102,3 +102,6 @@ https://github.com/optiv/KnockKnock.git
 
 WMIExec (as the name states)
 https://github.com/WKL-Sec/WMIExec.git
+
+NimExec (fileless remote command execution - NTLM)
+https://github.com/frkngksl/NimExec.git
