@@ -162,3 +162,6 @@ https://github.com/nettitude/Aladdin.git
 
 EDRSandblast (weaponize a vulnerable signed driver to bypass EDR)
 https://github.com/wavestone-cdt/EDRSandblast.git
+
+DllNotificationInjection (process injection technique utilizing DLL Notification Callbacks)
+https://github.com/Dec0ne/DllNotificationInjection.git
