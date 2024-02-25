@@ -67,5 +67,8 @@ https://github.com/vectra-ai-research/MAAD-AF.git
 CloudRecon (finding assets from certificates)
 https://github.com/g0ldencybersec/CloudRecon.git
 
+AzSubEnum (subdomain enumeration tool tailored for Azure services)
+https://github.com/yuyudhn/AzSubEnum.git
+
 BucketLoot (automated S3-compatible Bucket Inspector)
 https://github.com/redhuntlabs/BucketLoot.git
