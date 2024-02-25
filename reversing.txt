@@ -43,5 +43,8 @@ https://github.com/advanced-threat-research/DotDumper.git
 Bread (reverseing BIOS)
 https://github.com/Theldus/bread.git
 
+NussSection (overwrites the section header with nullbytes)
+https://github.com/MatheuZSecurity/NullSection.git
+
 Linpmem (extended Linux memory dumping)
 https://github.com/Velocidex/Linpmem.git
