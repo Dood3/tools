@@ -221,3 +221,6 @@ https://github.com/mschwager/route-detect.git
 
 Porch-Pirate (uncover Postman secrets)
 https://github.com/MandConsultingGroup/porch-pirate.git
+
+RepoReaper (automate the identification of exposed .git repositories)
+https://github.com/chaudharyarjun/RepoReaper.git
