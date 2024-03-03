@@ -24,3 +24,6 @@ https://github.com/alperenugurlu/AD_Enumeration_Hunt.git
 
 ADCSKiller (discover and exploit Active Directory Certificate Services (ADCS))
 https://github.com/grimlockx/ADCSKiller.git
+
+NTLM_Theft (generate malicious object to catch ntlm hashes eg. with responder)
+https://github.com/Greenwolf/ntlm_theft.git
