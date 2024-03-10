@@ -224,3 +224,6 @@ https://github.com/MandConsultingGroup/porch-pirate.git
 
 RepoReaper (automate the identification of exposed .git repositories)
 https://github.com/chaudharyarjun/RepoReaper.git
+
+Nomore403 (403 circumventer)
+https://github.com/devploit/nomore403.git
