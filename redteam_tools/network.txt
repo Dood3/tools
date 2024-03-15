@@ -234,3 +234,6 @@ https://github.com/Greenwolf/ntlm_theft.git
 
 SharpCovertTube (control Windows systems remotely by uploading videos to Youtube)
 https://github.com/ricardojoserf/SharpCovertTube.git
+
+n0Mac (Mac-changer)
+https://github.com/chaudharyarjun/n0Mac.git
