@@ -117,3 +117,9 @@ https://github.com/tastypepperoni/PPLBlade.git
 
 Stompy (timestomping)
 https://github.com/ZephrFish/Stompy.git
+
+MultiDump (dumping and extracting LSASS memory discreetly)
+https://github.com/Xre0uS/MultiDump.git
+
+DNS-Tunnel-Keylogger (as the name states)
+https://github.com/Geeoon/DNS-Tunnel-Keylogger.git
