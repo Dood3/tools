@@ -237,3 +237,6 @@ https://github.com/ricardojoserf/SharpCovertTube.git
 
 n0Mac (Mac-changer)
 https://github.com/chaudharyarjun/n0Mac.git
+
+Cerbrutus (very fast password spraying SSH, and FTP)
+https://github.com/Cerbrutus-BruteForcer/cerbrutus.git
