@@ -240,3 +240,6 @@ https://github.com/chaudharyarjun/n0Mac.git
 
 Cerbrutus (very fast password spraying SSH, and FTP)
 https://github.com/Cerbrutus-BruteForcer/cerbrutus.git
+
+Ping-Rat (ICMP rat written in Go)
+https://github.com/umutcamliyurt/PingRAT.git
