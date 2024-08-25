@@ -81,3 +81,6 @@ https://github.com/ScorpionesLabs/MSSqlPwner.git
 
 PipeViewer (GUI for finding Windows Named Pipes)
 https://github.com/cyberark/PipeViewer.git
+
+RemoteTLSCallbackInjection (as the name states)
+https://github.com/Maldev-Academy/RemoteTLSCallbackInjection.git
