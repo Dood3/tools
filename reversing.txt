@@ -46,5 +46,8 @@ https://github.com/Theldus/bread.git
 NussSection (overwrites the section header with nullbytes)
 https://github.com/MatheuZSecurity/NullSection.git
 
+Indetectables Toolkit (swiss army knife for reversing)
+https://github.com/indetectables-net/toolkit.git
+
 Linpmem (extended Linux memory dumping)
 https://github.com/Velocidex/Linpmem.git
