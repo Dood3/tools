@@ -162,3 +162,6 @@ https://github.com/Haxrein/MagicBytes.git
 
 gssapi-abuse (as the name states)
 https://github.com/CCob/gssapi-abuse.git
+
+ROPDump (analyzing binary executables to identify potential Return-Oriented Programming (ROP) gadgets, as well as detecting potential buffer overflow and memory leak vulnerabilities)
+https://github.com/Rizer0/Ropdump.git
