@@ -72,3 +72,6 @@ https://github.com/yuyudhn/AzSubEnum.git
 
 BucketLoot (automated S3-compatible Bucket Inspector)
 https://github.com/redhuntlabs/BucketLoot.git
+
+CloudEnum (as the name states)
+https://github.com/initstring/cloud_enum.git
