@@ -78,3 +78,6 @@ https://github.com/h4wkst3r/ADOKit.git
 
 CloudEnum (as the name states)
 https://github.com/initstring/cloud_enum.git
+
+CloudBrute (find a company (target) infrastructure, files, and apps on the top cloud providers (Amazon, Google, Microsoft, DigitalOcean, Alibaba, Vultr, Linode)
+https://github.com/0xsha/CloudBrute.git
