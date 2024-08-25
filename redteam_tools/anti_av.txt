@@ -165,3 +165,6 @@ https://github.com/wavestone-cdt/EDRSandblast.git
 
 DllNotificationInjection (process injection technique utilizing DLL Notification Callbacks)
 https://github.com/Dec0ne/DllNotificationInjection.git
+
+Volana (Shell command obfuscation to avoid SIEM/detection system)
+https://github.com/ariary/volana.git
