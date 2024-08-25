@@ -123,3 +123,6 @@ https://github.com/Xre0uS/MultiDump.git
 
 DNS-Tunnel-Keylogger (as the name states)
 https://github.com/Geeoon/DNS-Tunnel-Keylogger.git
+
+Cookie-Monster (Steal browser cookies for edge, chrome and firefox through a BOF or exe)
+https://github.com/KingOfTheNOPs/cookie-monster.git
