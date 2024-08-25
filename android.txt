@@ -1,2 +1,5 @@
 Moukhtar (RAT for Android)
 https://github.com/Tomiwa-Ot/moukthar.git
+
+APKDeepLens (Python based tool designed to scan Android applications (APK files) for security vulnerabilities)
+https://github.com/d78ui98/APKDeepLens.git
