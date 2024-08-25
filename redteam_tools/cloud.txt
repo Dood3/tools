@@ -73,5 +73,8 @@ https://github.com/yuyudhn/AzSubEnum.git
 BucketLoot (automated S3-compatible Bucket Inspector)
 https://github.com/redhuntlabs/BucketLoot.git
 
+ADOKit (Azure DevOps Services Attack Toolkit)
+https://github.com/h4wkst3r/ADOKit.git
+
 CloudEnum (as the name states)
 https://github.com/initstring/cloud_enum.git
