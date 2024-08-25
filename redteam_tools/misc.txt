@@ -157,5 +157,8 @@ https://github.com/naksyn/ProcessStomping.git
 EvtMute (offensive yara)
 https://github.com/bats3c/EvtMute.git
 
+MagicBytes (Fixes corrupted Magic Bytes for PNG, JPG and JPEG)
+https://github.com/Haxrein/MagicBytes.git
+
 gssapi-abuse (as the name states)
 https://github.com/CCob/gssapi-abuse.git
