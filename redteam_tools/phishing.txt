@@ -90,3 +90,6 @@ https://github.com/MattKeeley/Spoofy.git
 
 Facading (URL masking tool)
 https://github.com/spyboy-productions/Facad1ng.git
+
+Frameless-BITB (Browser In The Browser (BITB) without the use of iframes)
+https://github.com/waelmas/frameless-bitb.git
