@@ -243,3 +243,6 @@ https://github.com/Cerbrutus-BruteForcer/cerbrutus.git
 
 Ping-Rat (ICMP rat written in Go)
 https://github.com/umutcamliyurt/PingRAT.git
+
+Espionage (Network Traffic Interceptor For Linux)
+https://github.com/josh0xA/Espionage.git
