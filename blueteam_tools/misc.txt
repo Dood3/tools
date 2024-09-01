@@ -130,5 +130,8 @@ https://github.com/redhuntlabs/antisquat.git
 Melee (detect ransomware infection in MySQL instances)
 https://github.com/adityaks/melee.git
 
+Galah (LLM-powered web honeypot)
+https://github.com/0x4D31/galah.git
+
 PurpleKeep (retest existing detection rules)
 https://github.com/Retrospected/PurpleKeep.git
