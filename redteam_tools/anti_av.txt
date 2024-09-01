@@ -168,3 +168,6 @@ https://github.com/Dec0ne/DllNotificationInjection.git
 
 Volana (Shell command obfuscation to avoid SIEM/detection system)
 https://github.com/ariary/volana.git
+
+NoArgs (Manipulating and Hiding Process Arguments)
+https://github.com/oh-az/NoArgs.git
