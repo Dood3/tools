@@ -30,3 +30,6 @@ https://github.com/Xacone/BestEdrOfTheMarket.git
 
 RansomwareSim (ransoware simulator)
 https://github.com/HalilDeniz/RansomwareSim.git
+
+VulnNodeApp (as the name states)
+https://github.com/4auvar/VulnNodeApp.git
