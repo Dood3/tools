@@ -33,3 +33,6 @@ https://github.com/HalilDeniz/RansomwareSim.git
 
 VulnNodeApp (as the name states)
 https://github.com/4auvar/VulnNodeApp.git
+
+XMGoat (Azure vuln templates)
+https://github.com/XMCyber/XMGoat.git
