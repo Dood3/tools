@@ -34,3 +34,4 @@ https://github.com/itsKindred/modDetective.git
 https://github.com/ox-eye/Ox4Shell.git
 https://github.com/cea-sec/usbsas.git
 https://github.com/mayHamad/MemTracer.git
+https://github.com/MatheuZSecurity/ModTracer.git
