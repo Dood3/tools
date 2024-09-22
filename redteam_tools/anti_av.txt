@@ -171,3 +171,6 @@ https://github.com/ariary/volana.git
 
 NoArgs (Manipulating and Hiding Process Arguments)
 https://github.com/oh-az/NoArgs.git
+
+BYOSI (Evade EDR's the simple way, by not touching any of the API's they hook)
+https://github.com/oldkingcone/BYOSI.git
