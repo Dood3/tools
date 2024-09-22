@@ -33,3 +33,6 @@ https://github.com/djerryz/electron_shell.git
 
 Nim-Shell (generate Windows rev-shell in Nim)
 https://github.com/emrekybs/nim-shell.git
+
+Collection of webshells
+https://github.com/tennc/webshell.git
