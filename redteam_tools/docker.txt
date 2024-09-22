@@ -1,2 +1,5 @@
 Whoc (extract underlying container runtime)
 https://github.com/twistlock/whoc
+
+DockerSpy (searches for images on Docker Hub and extracts sensitive information such as authentication secrets, private keys, and more)
+https://github.com/UndeadSec/DockerSpy.git
