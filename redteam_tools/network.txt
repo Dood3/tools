@@ -249,3 +249,6 @@ https://github.com/josh0xA/Espionage.git
 
 DNSStager (hide and transfer your payload using DNS)
 https://github.com/mhaskar/DNSStager.git
+
+ICMP-TransferTools (as the name states)
+https://github.com/icyguider/ICMP-TransferTools.git
