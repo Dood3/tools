@@ -246,3 +246,6 @@ https://github.com/umutcamliyurt/PingRAT.git
 
 Espionage (Network Traffic Interceptor For Linux)
 https://github.com/josh0xA/Espionage.git
+
+DNSStager (hide and transfer your payload using DNS)
+https://github.com/mhaskar/DNSStager.git
