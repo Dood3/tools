@@ -55,5 +55,8 @@ https://github.com/Velocidex/Linpmem.git
 File-Unpumper (command-line utility designed to clean and analyze Portable Executable (PE))
 https://github.com/0x11DFE/file-unpumper.git
 
+ROPDump (analyzing binary executables to identify potential Return-Oriented Programming (ROP) gadgets, as well as detecting potential buffer overflow and memory leak vulnerabilities)
+https://github.com/Rizer0/Ropdump.git
+
 Startup-SBOM (simple SBOM utility which aims to provide an insider view on which packages are getting executed)
 https://github.com/morpheuslord/Startup-SBOM.git
