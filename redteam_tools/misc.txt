@@ -165,3 +165,6 @@ https://github.com/CCob/gssapi-abuse.git
 
 DynastyPersist (streamlined tool for achieving Linux persistence)
 https://github.com/Trevohack/DynastyPersist.git
+
+D3m0n1z3dShell (Tool for persistence in linux)
+https://github.com/MatheuZSecurity/D3m0n1z3dShell.git
